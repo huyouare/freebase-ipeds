@@ -5,6 +5,7 @@ freebase_colleges = set()
 
 with open('freebase-colleges-iped.csv', 'r') as csvfile:
   reader = csv.reader(csvfile)
+  next(reader, None)
   for row in reader:
     freebase_colleges.add(row[0])
 
@@ -13,6 +14,7 @@ debt_colleges = set()
 
 with open('./datasets/debt.csv', 'r') as csvfile:
   reader = csv.reader(csvfile)
+  next(reader, None)
   for row in reader:
     debt_colleges.add(row[3])
 
@@ -36,6 +38,7 @@ ipeds_colleges = set()
 
 with open('./datasets/ipeds_data_for_production_database.csv', 'r') as csvfile:
   reader = csv.reader(csvfile)
+  next(reader, None)
   for row in reader:
     ipeds_colleges.add(row[0])
 
