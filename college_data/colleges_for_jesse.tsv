@@ -1,0 +1,1983 @@
+ID	Name	Median SAT score	Graduation rate	Retention rate
+1	South Carolina State University	826	34	64
+2	Tennessee State University	864	35	65
+3	Clark Atlanta University	884	39	64
+4	North Carolina A&T State University	892	42	75
+5	University of Bridgeport	910	32	55
+6	University of Texas--El Paso	925	38	73
+7	Florida A&M University	946	40	80
+8	Barry University	940	35	64
+9	Central Michigan University	1024	58	77
+10	Indiana State University	910	43	62
+11	Immaculata University	953	53	80
+12	New Mexico State University-Main Campus	960	46	70
+13	Indiana University of Pennsylvania	981	50	75
+14	Cleveland State University	1021	34	65
+15	University of La Verne	1034	59	83
+16	Indiana University-Purdue University--Indianapolis	990	38	72
+17	University of Memphis	1005	41	77
+18	Trinity International University		55	71
+19	Widener University	1015	55	72
+20	East Carolina University	1037	58	80
+21	Bowling Green State University	997	58	74
+22	Nova Southeastern University	1053	42	70
+23	Texas Woman's University	916	47	71
+24	University of Massachusetts--Boston	1072	38	77
+25	University of Hartford	1065	52	72
+26	University of Nevada--Las Vegas	997	41	76
+27	University of Southern Mississippi	1036	50	75
+28	Louisiana Tech University	1085	47	76
+29	University of North Carolina--Greensboro	1018	54	77
+30	Trevecca Nazarene University	1043	54	73
+31	Kent State University	1029	52	77
+32	Northern Illinois University	1022	54	72
+33	Ball State University	1056	57	79
+34	University of California--Riverside	1084	70	87
+35	Northern Arizona University	1043	49	73
+36	University of North Carolina--Charlotte	1055	53	78
+37	Portland State University	1036	39	72
+38	University of Rhode Island	1045	63	81
+39	Florida Atlantic University	1066	41	79
+40	University of Northern Colorado	1047	45	69
+41	San Diego State University	1088	67	86
+42	Andrews University	1051	59	79
+43	Seton Hall University	1099	67	82
+45	Old Dominion University	1016	49	80
+46	Regent University	1024	33	73
+47	Rutgers, the State University of New Jersey--Newark	1045	61	86
+48	University of Nevada--Reno	1049	54	79
+49	The University of West Florida	1060	48	73
+50	Georgia State University	1077	51	83
+51	University of Hawaii--Manoa	1075	56	79
+52	University of Massachusetts--Lowell	1106	54	80
+53	University of Texas--Arlington	1059	42	71
+54	Saint Mary's University of Minnesota	1065	62	77
+55	Washington State University	1040	67	83
+56	University of Maine	1068	59	78
+57	University of Colorado--Denver	1085	45	73
+58	University of New Mexico-Main Campus	1070	44	74
+59	University of Idaho	1066	56	79
+60	University of Montana--Western	955	42	73
+61	Oral Roberts University	1048	51	80
+62	Pace University	1088	58	78
+63	Utah State University	1105	50	72
+64	Texas Tech University	1118	62	82
+65	Virginia Commonwealth University	1101	57	85
+66	Ohio University	1081	64	81
+67	St. John's University-New York	1080	58	79
+68	University of North Texas	1072	48	77
+69	University of Houston	1133	46	81
+71	Adelphi University	1120	66	81
+72	Azusa Pacific University	1093	63	85
+73	Oregon State University	1080	60	83
+74	George Fox University	1100	64	81
+75	University of Arizona	1094	61	78
+76	Wichita State University	1036	41	71
+77	New School	1120	65	81
+78	University at Albany--SUNY	1098	64	85
+79	University of South Dakota	1046	51	75
+80	Howard University	1056	65	82
+81	Temple University	1103	66	88
+82	University of Kentucky	1125	58	81
+83	University of Oregon	1108	68	85
+84	Mississippi State University	1095	60	82
+85	University of Utah	1131	59	86
+86	Oklahoma State University	1107	62	79
+87	University of Wyoming	1100	54	74
+88	University of Alabama	1124	67	85
+89	Pacific University	1112	63	79
+90	Duquesne University	1131	74	87
+91	The Catholic University of America	1122	67	81
+92	University of Cincinnati	1130	62	85
+93	University of San Francisco	1143	67	85
+94	Michigan State University	1097	79	91
+95	New Jersey Institute of Technology	1117	54	82
+96	Montana State University	1106	49	74
+97	University of Illinois--Chicago	1129	58	80
+98	Colorado State University	1143	63	84
+99	University of Alabama--Birmingham	1111	48	80
+100	Clarkson University	1133	71	87
+101	DePaul University	1147	68	86
+102	University of Louisville	1120	52	78
+103	University of New Hampshire	1087	77	87
+104	University of South Florida	1158	57	88
+105	Purdue University--West Lafayette	1165	70	89
+107	George Mason University	1150	66	86
+108	University of Dayton	1152	78	87
+109	University of California--Santa Cruz	1089	77	90
+110	University of Alabama--Huntsville	1152	47	77
+111	Louisiana State University--Baton Rouge	1142	67	84
+112	SUNY Buffalo State	964	48	74
+113	Florida Institute of Technology	1151	55	77
+114	University of Central Florida	1163	65	87
+115	Syracuse University	1150	82	92
+116	North Carolina State University--Raleigh	1193	71	91
+117	Texas Christian University	1186	75	87
+118	Indiana University--Bloomington	1151	75	89
+119	University of California--Irvine	1130	86	94
+120	Texas A&M University--College Station	1169	80	92
+122	SUNY College of Environmental Science and Forestry	1181	67	85
+123	The University of Tennessee	1164	63	84
+124	University of California--Davis	1191	85	92
+125	University of Delaware	1202	80	92
+126	Samford University	1139	71	85
+127	University of the Pacific	1189	63	85
+128	University of Missouri--Kansas City	1204	48	73
+129	University of Massachusetts--Amherst	1197	70	88
+130	University of Oklahoma Norman Campus	1170	67	85
+131	Miami University--Oxford	1190	80	89
+132	St. Thomas University	914	32	69
+133	University of Denver	1191	76	87
+134	Stony Brook University--SUNY	1208	70	90
+135	University of Maryland--Baltimore County	1207	61	85
+136	University of California--Santa Barbara	1233	86	91
+137	Hofstra University	1169	61	78
+138	Rutgers, the State University of New Jersey--New Brunswick	1197	79	92
+139	University of Missouri	1164	71	85
+140	University of Colorado--Boulder	1176	68	84
+141	University of Texas--Dallas	1245	64	84
+142	Marquette University	1173	80	89
+143	University of Vermont	1189	76	86
+144	Loyola University Chicago	1183	70	86
+145	Baylor University	1234	75	85
+146	University of South Carolina	1199	72	87
+147	Clark University	1172	80	89
+148	Iowa State University	1145	71	86
+149	Drexel University	1209	65	84
+150	Michigan Technological University	1161	66	83
+152	University of Iowa	1146	70	85
+153	Virginia Tech	1213	83	92
+154	Pennsylvania State University--University Park	1185	86	92
+155	University of Washington-Seattle Campus	1200	80	93
+156	Florida State University	1199	75	92
+157	University of San Diego	1213	76	88
+158	Yeshiva University	1241	89	91
+159	University of Connecticut	1226	82	93
+160	Clemson University	1196	82	90
+161	University of Texas--Austin	1235	79	92
+162	Ohio State University-Main Campus	1213	80	93
+163	Pepperdine University	1234	81	91
+164	University of Georgia	1241	82	94
+165	St. Louis University	1224	70	86
+166	University of Minnesota--Twin Cities	1268	73	90
+167	Fordham University	1255	81	89
+168	Stevens Institute of Technology	1291	78	92
+169	Southern Methodist University	1265	79	89
+170	Brigham Young University--Provo	1266	77	86
+171	Illinois Institute of Technology	1240	68	93
+172	University of California--San Diego	1271	86	95
+173	University of Florida	1252	85	96
+174	Colorado School of Mines	1263	66	89
+175	University of Tulsa	1280	66	87
+176	University of Pittsburgh	1248	79	92
+177	University of Miami	1309	81	91
+178	Missouri University of Science & Technology	1227	65	85
+179	Binghamton University--SUNY	1283	79	91
+180	American University	1255	77	90
+181	Boston University	1281	84	91
+182	University of Wisconsin--Madison	1269	83	95
+183	Northeastern University	1342	79	94
+184	University of California--Los Angeles	1303	92	97
+185	George Washington University	1293	80	93
+186	Biola University	1109	65	85
+187	University of North Carolina--Chapel Hill	1289	89	97
+188	University of Maryland--College Park	1294	82	94
+189	Lehigh University	1296	88	94
+190	University of Rochester	1334	85	96
+191	Georgia Institute of Technology-Main Campus	1313	79	95
+192	University of Illinois--Urbana-Champaign	1337	84	94
+193	Case Western Reserve University	1342	78	92
+194	University of California--Berkeley	1366	91	97
+195	New York University	1345	85	92
+197	Rensselaer Polytechnic Institute	1366	84	92
+198	University of Virginia-Main Campus	1330	94	97
+199	University of Michigan--Ann Arbor	1343	91	96
+200	College of William and Mary	1341	90	95
+201	Boston College	1355	92	95
+202	University of Southern California	1360	90	97
+203	Brandeis University	1329	90	94
+204	Carnegie Mellon University	1383	87	96
+205	Johns Hopkins University	1399	94	97
+206	Cornell University	1415	93	96
+207	Georgetown University	1405	93	96
+208	Emory University	1365	90	95
+209	Rice University	1436	92	96
+210	University of Notre Dame	1420	95	98
+211	Vanderbilt University	1466	92	96
+212	Brown University	1422	95	98
+213	Duke University	1456	95	97
+214	Stanford University	1476	95	98
+215	University of Pennsylvania	1436	96	98
+216	Northwestern University	1453	93	97
+217	Dartmouth College	1448	96	98
+218	Tufts University	1426	92	96
+219	Massachusetts Institute of Technology	1470	93	97
+220	Columbia University	1476	97	99
+221	Washington University in St. Louis	1460	94	97
+222	University of Chicago	1486	92	99
+223	Harvard University	1479	97	98
+224	Princeton University	1506	96	98
+225	Yale University	1506	96	99
+226	California Institute of Technology	1533	92	98
+227	Rhode Island School of Design	1239	88	95
+228	Harvey Mudd College	1469	88	98
+229	Babson College	1263	91	93
+230	Williams College	1434	96	97
+231	Colgate University	1350	90	95
+232	Washington and Lee University	1377	90	94
+233	Swarthmore College	1438	92	97
+234	Loyola University Maryland	1175	84	88
+235	Amherst College	1431	95	98
+236	Cooper Union	1330	82	94
+237	Bucknell University	1283	90	94
+238	Claremont McKenna College	1405	92	95
+239	Georgia Institute of Technology	1339	79	94
+240	United States Air Force Academy	1317	80	90
+241	Davidson College	1349	93	97
+242	Virginia Military Institute	1121	71	84
+243	Rose-Hulman Institute of Technology	1251	80	91
+244	South Dakota School of Mines and Technology	1097	46	80
+245	Haverford College	1406	93	96
+246	California Polytechnic State University--San Luis Obispo	1231	73	92
+247	Dickinson College	1283	85	91
+249	Wesleyan University	1384	91	96
+250	Lafayette College	1279	91	95
+251	Colby College	1320	90	95
+252	Kenyon College	1333	90	93
+253	Carleton College	1423	94	97
+254	Hampden-Sydney College	1091	68	79
+255	California State Polytechnic University--Pomona	1014	51	89
+256	Texas A&M University--College Station	1169	80	92
+257	Fairfield University	1173	81	88
+258	Gettysburg College	1299	84	91
+259	Bowdoin College	1436	95	96
+260	University of Texas--Austin	1235	79	92
+261	Occidental College	1300	84	92
+262	Middlebury College	1381	94	96
+263	University of Washington	1211	80	93
+264	Villanova University	1286	88	94
+265	San Jose State University	1039	47	84
+266	Macalester College	1350	90	95
+267	University of Virginia	1348	93	97
+268	Kettering University	1175	55	89
+269	Denison University	1286	86	90
+270	Fairleigh Dickinson University	1010	54	73
+271	Rutgers, the State University of New Jersey--New Brunswick	1197	79	92
+272	Milwaukee School of Engineering	1185	56	78
+273	Wellesley College	1384	92	96
+274	Butler University	1160	73	89
+276	University of Colorado--Boulder	1176	68	84
+277	University of Maryland	1289
+278	Seattle Pacific University	1110	72	86
+279	Trinity College	1283	83	91
+280	Embry-Riddle Aeronautical University	1108	58	73
+281	Grove City College	1226	82	91
+282	Oregon Institute of Technology	1003	48	72
+284	University of Maryland--Baltimore	1206	57	85
+285	Colorado College	1335	90	95
+286	Gonzaga University	1194	81	92
+287	Wheaton College - Wheaton, IL	1309	90	96
+288	Trinity University	1244	80	89
+289	Providence College	1155	87	91
+290	Ohio Northern University	1153	67	85
+291	Whitman College	1329	87	94
+292	Vassar College	1394	91	97
+293	Furman University	1205	83	90
+294	Miami University Hamilton	1175	27	55
+295	Millsaps College	1102	72	81
+296	Pomona College	1434	96	98
+297	Auburn University	1168	68	88
+298	Willamette University	1219	77	88
+299	Hendrix College	1226	72	85
+300	Binghamton University--SUNY	1283	79	91
+301	Reed College	1393	79	90
+302	DePauw University	1193	78	90
+303	Drake University	1180	74	88
+304	Pacific Lutheran University	1097	69	82
+305	Louisiana State University--Baton Rouge	1142	67	84
+306	Presbyterian College	1086	68	83
+307	The Citadel	1087	66	82
+308	University of Richmond	1293	83	93
+309	California State University--Long Beach	1027	57	88
+310	University of Portland	1196	74	89
+311	Oberlin College	1353	85	94
+312	Rutgers, the State University of New Jersey--Newark	1045	61	86
+313	California State University--Sacramento	958	41	81
+314	James Madison University	1150	80	91
+315	Montana Tech of the University of Montana	1096	46	68
+316	California State University--Chico	1020	56	85
+317	University of Mary Washington	1126	76	84
+318	Gustavus Adolphus College	1242	83	92
+319	University of Oklahoma	1171	66	84
+320	California State University--East Bay	915	41	74
+321	North Carolina State University	1163
+322	Ursinus College	1209	74	90
+323	Tulane University	1342	75	90
+324	University at Albany--SUNY	1098	64	85
+325	Valparaiso University	1099	74	83
+326	Muhlenberg College	1240	87	92
+327	University of Arkansas	1132	60	83
+328	Randolph-Macon College	1079	56	78
+329	Quinnipiac University	1099	75	87
+330	Bryant University	1133	80	87
+331	Connecticut College	1333	85	90
+332	University of New Haven	1046	56	73
+333	Monmouth University	1063	64	79
+334	St. Anselm College	1117	74	86
+335	University of Colorado--Denver	1085	45	73
+336	Barnard College	1355	90	95
+337	Western Washington University	1109	67	85
+338	University of Tennessee	1172	66	85
+339	Grinnell College	1390	90	94
+340	California State University--Fullerton	1027	51	84
+341	California State University--Northridge	927	48	74
+342	Rider University	1041	67	80
+343	Towson University	1087	66	85
+344	Xavier University	1105	78	83
+345	Rhodes College	1261	81	90
+346	University of North Carolina--Chapel Hill	1289	89	97
+347	Allegheny College	1185	78	87
+348	Wofford College	1247	84	89
+349	Albion College	1113	72	80
+350	Norwich University	1058	54	79
+351	Ohio State University--Columbus	1230	82	93
+352	College of New Jersey	1223	87	95
+353	University of Alabama--Huntsville	1152	47	77
+354	Arizona State University	1094	57	82
+356	Seattle University	1169	77	88
+357	University of New England	1058	58	77
+358	University of Missouri	1164	71	85
+359	Ramapo College of New Jersey	1103	73	87
+360	University of Colorado--Colorado Springs	1089	46	68
+361	West Virginia University	1045	56	79
+362	Sacred Heart University	1088	63	79
+363	William Jewell College	1138	69	76
+364	Hamilton College	1376	91	95
+365	Beloit College	1230	78	89
+366	San Francisco State University	998	47	78
+367	St. Thomas University	914	32	69
+368	Tuskegee University	900	38	74
+369	Calvin College	1204	77	87
+370	Montana State University, Bozeman	1113
+371	California State University--Fresno	925	48	84
+372	Central College	1025	69	80
+373	University of Puget Sound	1240	77	87
+374	California State University--San Bernardino	899	46	86
+375	Ripon College	1114	72	84
+376	St. Olaf College	1277	86	93
+377	Xavier University of Louisiana	973	47	67
+378	Drew University	1095	69	80
+379	Knox College	1263	79	89
+380	McDaniel College	1120	74	82
+381	North Dakota State University	1115	53	78
+382	University of Dallas	1199	69	81
+383	New Mexico State University	975	44	72
+384	William Paterson University of New Jersey	1024	48	78
+385	Kean University	929	50	79
+386	University of North Dakota	1068	54	77
+387	Rockhurst University	1104	67	83
+388	Central Connecticut State University	1007	52	78
+389	Regis University	1094	59	85
+390	Salve Regina University	1108	72	80
+391	Austin College	1226	77	83
+392	Eastern Connecticut State University	1013	53	77
+393	Westminster College - Salt Lake City, UT		57	78
+394	Cornell College	1220	71	81
+395	Rowan University	1093	70	84
+396	Washington College	1154	69	84
+397	College of St. Benedict	1111	81	89
+398	California State University--Los Angeles	883	37	80
+399	University of New Mexico	1084	46	77
+400	Lipscomb University	1124	56	75
+401	SUNY--New Paltz	1115	73	88
+402	Colorado Christian University	1150	42	72
+403	University of Montana	1067	48	73
+404	Bellarmine University	1092	62	80
+405	Southern Connecticut State University	937	44	77
+406	Birmingham-Southern College	1170	65	81
+407	St. Louis University		70	86
+408	South Dakota State University	985	56	76
+409	Transylvania University	1136	74	86
+410	Salisbury University	1149	67	82
+411	University of South Alabama	1018	37	66
+412	Morehouse College	1015	56	83
+413	Rivier University		46	78
+414	University of New Orleans	1096	34	66
+415	University of Nebraska--Lincoln	1190	65	84
+416	Illinois Wesleyan University	1224	82	91
+417	University of Mississippi	1070	58	82
+418	Sewanee--University of the South	1251	78	88
+419	University of Louisiana--Lafayette	1050	44	75
+420	SUNY--Plattsburgh	1076	61	81
+421	SUNY--Oswego	1100	58	81
+422	Kalamazoo College	1197	80	91
+423	Florida International University	1135	49	82
+424	Delaware State University	885	33	66
+425	Bethel University - St. Paul, MN	1156	72	85
+426	University of Evansville	1157	68	82
+427	Idaho State University	1145	30	61
+428	Webster University	1100	64	80
+429	California State University--Dominguez Hills	854	28	74
+430	Richard Stockton College of New Jersey	1065	64	84
+431	California State University--San Marcos	963	47	78
+432	Concordia College--Moorhead	1142	68	83
+433	College of Wooster	1197	76	89
+434	Southern New Hampshire University	979	57	71
+435	SUNY--Geneseo	1269	79	91
+436	University of North Florida	1157	48	83
+437	Coe College	1108	70	80
+438	Eastern Kentucky University	965	38	66
+439	Montclair State University	989	63	82
+440	Linfield College	1067	67	83
+441	Colorado State University--Pueblo	961	34	64
+442	Truman State University	1243	74	87
+443	University of Detroit Mercy	1118	57	80
+444	Boise State University	1041	29	70
+445	California State University--Stanislaus	927	49	85
+446	Centenary College	902	49	77
+447	Southern Oregon University	1005	32	69
+448	Humboldt State University	1003	42	73
+449	Western State Colorado University	1044	38	62
+450	Franklin Pierce University	927	50	63
+451	Hamline University	1129	63	80
+452	College of Charleston	1209	69	83
+453	Luther College	1082	77	88
+454	SUNY College--Oneonta	1101	67	84
+455	Rhode Island College	937	43	76
+456	Belmont University	1172	67	81
+457	Troy University	1085	35	70
+458	Maryland Institute College of Art	1145	72	85
+459	Dordt College	1126	66	78
+460	Berry College	1144	62	77
+461	Keene State College	977	62	78
+462	SUNY College--Cortland	1100	69	83
+463	Taylor University	1153	77	87
+464	Western Kentucky University	991	50	73
+465	Western Connecticut State University	976	43	72
+466	High Point University	1100	61	78
+467	Maryville University of St. Louis	1080	70	84
+468	Fort Lewis College	1054	38	62
+469	Loyola University New Orleans	1158	58	78
+470	Graceland University	933	50	68
+471	Hope College	1186	77	89
+472	University of Louisiana--Monroe	1001	24	72
+473	Plymouth State University	956	55	76
+474	California State University--Bakersfield		41	71
+475	John Brown University	1135	68	79
+476	Saint Joseph's College of Maine	942	55	75
+477	College at Brockport--SUNY	1055	67	84
+478	Husson University	947	42	70
+479	Indiana Wesleyan University	1062	71	75
+480	Marshall University	993	45	71
+481	Johnson & Wales University	963	53	74
+482	Southwestern College	915	51	64
+483	Earlham College	1183	71	83
+484	University of West Florida	991	45	74
+485	Western Oregon University	903	46	70
+486	Virginia State University	840	42	71
+487	Charleston Southern University	980	38	63
+488	Arkansas State University	946	39	70
+489	Grand Valley State University	1091	62	83
+490	Mercer University	1163	63	83
+491	Grand View University	920	49	69
+492	Winthrop University	1050	53	70
+493	Southern Utah University	1005	36	64
+494	Alma College	1084	66	80
+495	Spelman College	1026	73	88
+496	Jacksonville State University	972	29	68
+497	University of North Carolina--Asheville	1177	55	81
+498	Albertus Magnus College	893	43	76
+499	University of North Alabama	978	32	69
+500	Huntingdon College	926	46	59
+501	SUNY--Fredonia	1050	65	84
+502	University of Dubuque	896	36	69
+504	Evergreen State College	1087	54	72
+505	Caldwell College	927	51	76
+506	Guilford College	1078	57	76
+507	University of Southern Maine	1001	31	66
+508	Murray State University	968	54	71
+509	Wartburg College	1012	65	80
+510	Bethel College - Mishawaka, IN	1023	62	80
+511	Morehead State University	976	43	69
+512	Alabama Agricultural and Mechanical University	826	32	69
+513	University of North Carolina--Wilmington	1156	68	86
+514	Florida Gulf Coast University	1037	46	75
+515	Coastal Carolina University	1000	47	64
+516	Arkansas Tech University	1018	42	70
+517	Union University		67	91
+518	Meredith College	1024	59	76
+519	Alabama State University	855	26	62
+520	Berea College	1144	66	81
+521	Northwestern College	1017	63	78
+522	MidAmerica Nazarene University	963	51	75
+523	University of Montevallo	1147	47	76
+524	Alcorn State University	886	32	69
+525	College of the Ozarks	1038	62	86
+526	University of Arkansas--Pine Bluff	807	28	58
+527	Asbury University	1113	76	81
+528	Faulkner University	907	32	54
+529	University of Wisconsin--Platteville	1038	51	75
+530	University of Wisconsin--Eau Claire	1164	66	83
+531	University of Wisconsin--Milwaukee	999	43	72
+532	University of Northern Iowa	1057	66	82
+533	University of Wisconsin--La Crosse	1091	71	86
+534	Morningside College	1018	59	72
+535	St. Ambrose University		63	78
+536	University of Michigan--Dearborn	1133	52	82
+537	University of Wisconsin--Parkside	960	30	63
+538	University of Wisconsin--Stout	1018	52	72
+539	Augustana College - Sioux Falls, SD		66	84
+540	Clarke University	1038	63	78
+541	University of Wisconsin--Oshkosh	1018	52	76
+542	University of Wisconsin--River Falls	1018	54	73
+543	Southeastern Louisiana University	999	34	68
+544	Simpson College	1096	67	81
+545	University of Wisconsin--Green Bay	1057	51	74
+546	University of Wisconsin--Stevens Point	1074	59	81
+547	Fort Hays State University	985	42	68
+548	Upper Iowa University	1018	41	64
+549	Mount Mercy University	1018	54	79
+550	Jackson State University	883	42	75
+551	Mississippi Valley State University	825	29	58
+552	Grambling State University		28	65
+553	Strayer University	1003	5
+555	Ashford University	1010	28	42
+558	Albany State University	890	39	70
+560	Eastern Nazarene College	956	48	67
+563	Marymount University	1001	50	70
+571	Roosevelt University	1059	44	58
+574	Columbia College Chicago	1085	39
+575	Grace University	925	36	82
+576	Siena Heights University	989	43	70
+577	University of Phoenix	1000	5
+578	Agnes Scott College	1166	64	83
+579	McGill University	1240
+580	Loyola University New Orleans	1158	58	78
+584	Academy of Art University		33	64
+585	Oklahoma Panhandle State University	830	28	54
+587	Hood College	1071	60	79
+590	Eastern Michigan University	1015	37	75
+591	Sam Houston State University	1009	49	74
+594	University of West Georgia	953	36	72
+595	Abilene Christian University	1080	59	74
+596	Abraham Baldwin Agricultural College	620		62
+597	Acadia University
+598	Adams State University		27	54
+599	Adrian College	939	59	71
+600	Adventist University of Health Sciences
+601	AIB College of Business			67
+602	Alaska Pacific University	1037	52	71
+603	Albany College of Pharmacy and Health Sciences
+604	Albright College	1066	53	74
+605	Alderson Broaddus University	931	42	67
+606	Alfred University	1092	63	73
+607	Alice Lloyd College	925	37	58
+608	Allen College
+609	Allen University	710	21	51
+610	Alliant International University		29
+611	Alvernia University	952	51	73
+612	Alverno College		39	71
+613	Amberton University
+614	American Academy of Art		45
+615	American Indian College of the Assemblies of God		48
+616	American InterContinental University	750
+617	American International College	876	39	63
+618	American Jewish University		42	90
+619	American Public University System	826		93
+620	American University in Bulgaria
+621	American University in Cairo	1100
+622	American University of Beirut	1119
+623	American University of Paris
+624	American University of Puerto Rico
+625	Amridge University		23
+626	Anderson University - Anderson, IN	1041	57	76
+627	Anderson University - Anderson, SC	1054	48	73
+628	Angelo State University	944	31	61
+629	Anna Maria College	864	51	58
+630	Antioch University
+631	Appalachian Bible College
+632	Appalachian State University	1133	67	87
+633	Aquinas College - Grand Rapids, MI		52	75
+634	Aquinas College - Nashville, TN	1215	49	64
+635	Arcadia University	1099	65	78
+636	Argosy University
+637	Arizona Christian University	1017
+638	Arizona State University--West
+639	Arkansas Baptist College		3	43
+640	Armstrong Atlantic State University	1010	31	69
+641	Art Academy of Cincinnati		35
+642	Art Center College of Design		66	82
+643	Art Institute of Atlanta		33
+644	Art Institute of Colorado		33
+645	Art Institute of Houston		29
+646	Art Institute of Pittsburgh		43
+647	Art Institute of Portland		35
+648	Art Institute of Seattle		35
+649	Ashland University	1040	60	72
+650	Assumption College	1110	75	83
+651	Athens State University
+652	Auburn University--Montgomery		29	56
+653	Augsburg College	1086	61	80
+654	Augustana College - Rock Island, IL	1166	78	85
+655	Aurora University		49	73
+656	Austin Peay State University	993	38	69
+657	Ave Maria University	1089	60	68
+658	Averett University	939	40	57
+659	Avila University		45	70
+660	Bacone College		12	34
+661	Baker College of Flint		15
+662	Baker University	1005	55	77
+663	Baldwin Wallace University	1068	68	83
+664	Baptist Bible College
+665	Baptist Bible College and Seminary
+666	Baptist College of Florida	1010
+667	Baptist Memorial College of Health Sciences
+668	Baptist Missionary Association Theological Seminary
+669	Bard College	1315	79	88
+670	Bard College at Simon's Rock	1277	32	73
+671	Barton College	952	47	67
+672	Bastyr University
+673	Bates College	1349	88	94
+674	Bauder College		33	33
+675	Bay Path College	972	50	74
+676	Bay State College		6	75
+677	Bayamon Central University
+678	Beacon College		72
+679	Becker College	997	29	65
+680	Belhaven University	1034	46	69
+681	Bellevue College
+682	Bellevue University	1140	34	76
+683	Bellin College
+684	Belmont Abbey College	1008	43	64
+685	Bemidji State University		46	70
+686	Benedict College		29
+687	Benedictine College	1140	58	78
+688	Benedictine University		53	76
+689	Benjamin Franklin Institute of Technology
+690	Bennett College	755	34	70
+691	Bennington College	1293	64	86
+692	Bentley University	1196	87	94
+693	Berkeley College - Woodland Park, NJ		34
+694	Berkeley College - New York, NY		32	50
+695	Berklee College of Music	826	53	82
+696	Bethany College - Lindsborg, KS		37	61
+697	Bethany College - Bethany, WV	872	48	62
+698	Bethany Lutheran College		51	72
+699	Bethel College - North Newton, KS	1067	58	75
+700	Bethel University - McKenzie, TN	1025	39	62
+701	Bethune-Cookman University	801	43	68
+702	BI Norwegian Business School
+703	Bismarck State College
+704	Black Hills State University		29	62
+705	Blackburn College	914	45	64
+706	Blessing-Rieman College of Nursing
+707	Bloomfield College	843	37	69
+708	Bloomsburg University of Pennsylvania	981	64	80
+709	Blue Mountain College	1020	41	76
+710	Bluefield College	911	30	58
+711	Bluefield State College	925	26	58
+712	Bluffton University	1089	57	67
+713	Boricua College		35
+714	Boston Architectural College		10	60
+715	Boston Conservatory		58	85
+716	Bowie State University	889	35	72
+717	Bradley University	1160	78	87
+718	Brandman University	1210
+719	Brazosport College		37	51
+720	Brenau University	956	45	69
+721	Brescia University	956	46	58
+722	Brevard College	984	32	58
+723	Brewton-Parker College		23	45
+724	Briar Cliff University	950	43	65
+725	Briarcliffe College		26
+726	Bridgewater College	1030	57	74
+727	Bridgewater State University	1010	54	81
+728	Brigham Young University--Hawaii		53	56
+729	Brigham Young University--Idaho		53	73
+730	Brock University
+731	Bryan College	1094	49	72
+732	Bryn Athyn College of the New Church	990	38	72
+733	Bryn Mawr College	1320	82	92
+734	Buena Vista University	1004	51	71
+735	Burlington College	1061	23	61
+736	Cabarrus College of Health Sciences
+737	Cabrini College	915	48	70
+738	Cairn University	1020	58	78
+739	California Baptist University	963	59	76
+740	California College of the Arts	1066	49	76
+741	California Institute of Integral Studies
+742	California Institute of the Arts	908	64	84
+743	California Lutheran University	1113	60	83
+744	California Maritime Academy	1072	53	80
+745	California State University--Channel Islands		53	79
+746	California State University--Monterey Bay	968	37	77
+747	California University of Pennsylvania		54	75
+748	Calumet College of St. Joseph	809	29	55
+749	Calvary Bible College and Theological Seminary
+750	Cambridge College		8	32
+751	Cameron University		19	56
+752	Campbell University	1025	51	73
+753	Campbellsville University	993	42	67
+754	Canisius College	1099	68	83
+755	Capella University	826		39
+756	Capital University	1087	59	75
+757	Capitol College		35
+758	Cardinal Stritch University	1075	43	68
+759	Caribbean University
+760	Carleton University
+761	Carlos Albizu University
+762	Carlow University		50	74
+763	Carroll College	1097	62	82
+764	Carroll University		59	77
+765	Carson-Newman University	1005	55	66
+766	Carthage College	1165	60	75
+767	Castleton State College	960	41	70
+768	Catawba College	939	51	70
+769	Cazenovia College	974	46	67
+770	Cedar Crest College	987	61	74
+771	Cedarville University	1182	72	85
+772	Centenary College of Louisiana	1160	56
+773	Central Baptist College	883	32	59
+774	Central Bible College
+775	Central Christian College		35	65
+776	Central Methodist University		50	67
+777	Central Penn College	1055	54	52
+778	Central State University	800	27	50
+779	Central Washington University	985	53	76
+780	Centre College	1252	87	91
+781	Chadron State College		43	67
+782	Chamberlain College of Nursing
+783	Chaminade University of Honolulu	975	36	69
+784	Champlain College	1118	66	76
+785	Chancellor University		8	45
+786	Chapman University	1216	72	91
+787	Charles R. Drew University of Medicine and Science
+788	Charter Oak State College
+789	Chatham University	1068	59	72
+790	Chestnut Hill College	985	47	71
+791	Cheyney University of Pennsylvania	757	22	56
+792	Chicago State University		21	58
+793	Chipola College
+794	Chowan University	798	24	44
+795	Christendom College
+796	Christian Brothers University		60	75
+797	Christopher Newport University	1164	67	83
+798	Cincinnati Christian University
+799	Cincinnati College of Mortuary Science
+800	City University of Seattle		21
+801	Claflin University	879	44	73
+802	Clarion University of Pennsylvania	953	50	70
+803	Clarkson College
+804	Clayton State University	934	28	66
+805	Clear Creek Baptist Bible College
+806	Clearwater Christian College	1051	45	68
+807	Cleary University		46
+808	Cleveland Chiropractic College
+809	Cleveland Institute of Art	1066	55	82
+810	Cleveland Institute of Music		73
+811	Cogswell Polytechnical College	1110	44	67
+812	Coker College	970	56	72
+813	Colby-Sawyer College		60	72
+814	College for Creative Studies	990	60	75
+815	College of Idaho	1068	64	81
+816	College of Mount St. Joseph	962	58	72
+817	College of Mount St. Vincent	911	57	73
+818	College of New Rochelle		31	60
+819	College of Our Lady of the Elms	988	68
+820	College of Saints John Fisher & Thomas More		33	33
+821	College of Southern Nevada
+822	College of St. Elizabeth		62	64
+823	College of St. Joseph	850	54	53
+824	College of St. Mary		37	64
+825	College of St. Rose	1042	65	80
+826	College of St. Scholastica	1092	65	80
+827	College of the Atlantic	1269	64	85
+828	College of the Holy Cross	1305	93	95
+829	Colorado Mesa University	968	29	65
+830	Colorado Technical University		9
+831	Columbia College - Columbia, MO		40
+832	Columbia College - Columbia, SC	1002	48	60
+833	Columbia College of Nursing
+834	Columbia International University	1094	69	81
+835	Columbus College of Art and Design	990	60	79
+836	Columbus State University	989	34	68
+837	Conception Seminary College
+838	Concord University	968	37	63
+839	Concordia College - Selma, AL		8	39
+840	Concordia College - Bronxville, NY	913	48	69
+841	Concordia University - Ann Arbor, MI		44	60
+842	Concordia University - Seward, NE	1060	64	77
+843	Concordia University - Irvine, CA	1039	52	75
+844	Concordia University - Portland, OR	1006	45	70
+845	Concordia University - Montreal, Quebec
+846	Concordia University Chicago	677	49	67
+847	Concordia University Texas	996	35	55
+848	Concordia University Wisconsin	977	59	78
+849	Concordia University--St. Paul		46	69
+850	Converse College	1059	54	69
+851	Coppin State University		15	62
+852	Corban University	1043	55	74
+853	Corcoran College of Art and Design		58	71
+854	Cornerstone University	1045	44	76
+855	Cornish College of the Arts		50	66
+856	Covenant College	1183	61	81
+857	Cox College
+858	Creighton University	1174	75	89
+859	Criswell College
+860	Crown College	993	50	72
+861	Culinary Institute of America	1040
+862	Culver-Stockton College	920	51	66
+863	Cumberland University	896	31	67
+864	CUNY--Baruch College	1219	66	90
+865	CUNY--Brooklyn College	1110	54	82
+866	CUNY--City College	1114	42	82
+867	CUNY--College of Staten Island	985	47	83
+868	CUNY--Hunter College	1172	46	85
+869	CUNY--John Jay College of Criminal Justice	930	43	77
+870	CUNY--Lehman College	963	34	79
+871	CUNY--Medgar Evers College	776	10	61
+872	CUNY--New York City College of Technology		23	76
+873	CUNY--Queens College	1083	54	87
+874	CUNY--York College	871	24	76
+875	Curry College	922	43	66
+876	Curtis Institute of Music		85	95
+877	D'Youville College	1001	45	73
+878	Daemen College	1009	49	78
+879	Dakota State University	981	42	64
+880	Dakota Wesleyan University	986	42	67
+881	Dalhousie University
+882	Dallas Baptist University	1113	54	73
+883	Dallas Christian College
+884	Dalton State College	950	17	65
+885	Daniel Webster College	1000	42	63
+886	Davenport University		23	67
+887	Davis and Elkins College		54	59
+888	Davis College
+889	Daytona State College			77
+890	Dean College	845	48	69
+891	Defiance College	889	50	62
+892	Delaware Valley College	979	58	74
+893	Delta State University	980	37	62
+894	DEREE--The American College of Greece
+895	DeSales University	1087	67	82
+896	DeVry University	920	32
+897	Dickinson State University		31	68
+898	Dillard University	845	31	67
+899	Divine Word College
+900	Dixie State College of Utah		39	58
+901	Doane College		64	76
+902	Dominican College	885	34	68
+903	Dominican University	1061	66	81
+904	Dominican University of California	1056	57	82
+905	Donnelly College
+906	Dowling College		34	65
+907	Drury University	1124	65	83
+908	Dunwoody College of Technology
+909	East Central University		32	65
+910	East Stroudsburg University of Pennsylvania	959	57	75
+911	East Tennessee State University	981	41	70
+912	East Texas Baptist University	960	32	59
+913	East-West University		19	35
+914	Eastern Illinois University		60	79
+915	Eastern Mennonite University	1023	59	78
+916	Eastern New Mexico University		26	64
+917	Eastern Oregon University	926	32	69
+918	Eastern University	1049	59	78
+919	Eastern Washington University	957	46	74
+920	Eckerd College	1105	60	80
+921	ECPI University		38	51
+922	Edgewood College	1125	53	78
+923	Edinboro University of Pennsylvania	932	45	73
+924	Edison State College
+925	Edward Waters College		15
+926	Elizabeth City State University	839	43	77
+927	Elizabethtown College	1102	74	85
+928	Elmhurst College	1083	74	80
+929	Elmira College	1070	57	73
+930	Elon University	1229	83	90
+931	Embry-Riddle Aeronautical University--Prescott	1151
+932	Emerson College	1251	82	88
+933	Emmanuel College - Franklin Springs, GA	947	38	63
+934	Emmanuel College - Boston, MA	1116	58	81
+935	Emmaus Bible College
+936	Emory and Henry College	991	46	73
+937	Emporia State University	1058	42	70
+938	Endicott College	1068	72	84
+939	Erskine College		62	73
+940	Escuela de Artes Plasticas de Puerto Rico
+941	Eureka College		53	66
+942	Evangel University	1013	49	72
+943	Everest College--Phoenix		26
+944	Everglades University		63	70
+945	Excelsior College	1040
+946	Fairmont State University	962	34	65
+947	Faith Baptist Bible College and Theological Seminary
+948	Farmingdale State College--SUNY	1019	45	81
+949	Fashion Institute of Technology		66	86
+950	Fayetteville State University	838	31	72
+951	Felician College	845	42	69
+952	Ferris State University	1060	56	72
+953	Ferrum College	881	33	55
+954	Finlandia University		37	48
+955	Fisher College	840	37	66
+956	Fisk University		54	73
+957	Fitchburg State University	985	50	76
+958	Five Towns College	906	43
+959	Flagler College	1110	65	74
+960	Florida Christian College
+961	Florida College	1040	8
+962	Florida Memorial University		38	71
+963	Florida Southern College	1071	55	77
+964	Florida State College--Jacksonville
+965	Fontbonne University	855	34	70
+966	Fort Valley State University	863	31	64
+967	Framingham State University	1035	52	74
+968	Francis Marion University	936	43	67
+969	Franciscan University of Steubenville	1163	78	86
+970	Frank Lloyd Wright School of Architecture		29
+971	Franklin and Marshall College	1302	83	93
+972	Franklin College	1021	60	75
+973	Franklin College Switzerland	1216
+974	Franklin University		25
+975	Franklin W. Olin College of Engineering	1465	93	97
+976	Freed-Hardeman University	1093	54	72
+977	Fresno Pacific University	992	72	76
+978	Friends University		30	66
+979	Frostburg State University	969	45	72
+980	Gallaudet University	880	33	74
+981	Gannon University	1037	65	80
+982	Gardner-Webb University	1003	48	71
+983	Geneva College	1055	62	77
+984	Georgetown College	1036	60	76
+985	Georgia College & State University	1135	57	85
+986	Georgia Gwinnett College	935		71
+987	Georgia Regents University
+988	Georgia Southern University	1097	50	79
+989	Georgia Southwestern State University	975	29	66
+990	Georgian Court University	885	49	72
+991	Glenville State College	830	30	62
+992	God's Bible School and College
+993	Goddard College		55
+994	Golden Gate University
+995	Goldey-Beacom College		46	70
+996	Goldfarb School of Nursing at Barnes-Jewish College
+997	Gordon College	1153	74	84
+998	Gordon State College
+999	Goshen College	1084	70	81
+1000	Goucher College	1123	66	81
+1001	Governors State University
+1002	Grace Bible College		35	60
+1003	Grace College and Seminary	1055	58	81
+1004	Grand Canyon University	941	34	41
+1005	Granite State College		52	57
+1006	Gratz College		75
+1007	Great Basin College		16
+1008	Great Lakes Christian College
+1009	Green Mountain College	1076	42	70
+1010	Greensboro College		43	64
+1011	Greenville College	1001	54	70
+1012	Gwynedd-Mercy College	940	75	79
+1013	Hampshire College	1246	64	83
+1014	Hampton University		55	77
+1015	Hannibal-LaGrange University	997	44	58
+1016	Hanover College	1090	65	81
+1017	Hardin-Simmons University	1025	47	67
+1018	Harding University	1110	61	81
+1019	Harrington College of Design		24
+1020	Harris-Stowe State University		14	45
+1021	Harrisburg University of Science and Technology	962	18	60
+1022	Hartwick College	1089	58	75
+1023	Haskell Indian Nations University
+1024	Hastings College	1057	55	73
+1025	Hawaii Pacific University	967	40	69
+1026	Hebrew Theological College
+1027	Heidelberg University	979	53	62
+1028	Hellenic College
+1029	Henderson State University	1016	36	60
+1030	Heritage University		14
+1031	Herzing University		38	47
+1032	Hilbert College		46	68
+1033	Hillsdale College	1319	77	96
+1034	Hiram College	1027	63	76
+1035	Hobart and William Smith Colleges	1217	76	88
+1036	Hodges University		22
+1037	Hollins University	1113	56	72
+1038	Holy Apostles College and Seminary
+1039	Holy Cross College	966	19	49
+1040	Holy Family University	945	61	76
+1041	Holy Names University	909	39	72
+1042	Hope International University	945	33	67
+1043	Houghton College	1151	67	86
+1044	Houston Baptist University	1085	44	68
+1045	Howard Payne University	970	45	62
+1046	Hult International Business School
+1047	Humphreys College		53
+1048	Huntington University	950	58	76
+1049	Huston-Tillotson University		24	52
+1050	Illinois College		62	81
+1051	Illinois Institute of Art at Chicago		33
+1052	Illinois State University		71	84
+1053	Indian River State College			61
+1054	Indiana Institute of Technology	887	30	57
+1055	Indiana University East	922	25	64
+1056	Indiana University Northwest	906	22	67
+1057	Indiana University Southeast	933	27	62
+1058	Indiana University--Kokomo	937	22	62
+1059	Indiana University--South Bend	937	23	64
+1060	Indiana University-Purdue University--Fort Wayne	990	22	61
+1061	Institute of American Indian and Alaska Native Culture and Arts Development
+1062	Inter American University of Puerto Rico--Aguadilla
+1063	Inter American University of Puerto Rico--Arecibo
+1064	Inter American University of Puerto Rico--Barranquitas
+1065	Inter American University of Puerto Rico--Bayamon
+1066	Inter American University of Puerto Rico--Fajardo
+1067	Inter American University of Puerto Rico--Guayama
+1068	Inter American University of Puerto Rico--Metropolitan Campus
+1069	Inter American University of Puerto Rico--Ponce
+1070	Inter American University of Puerto Rico--San German
+1071	International College of the Cayman Islands
+1072	Iona College	1014	65	80
+1073	Iowa Wesleyan College		30	42
+1074	Ithaca College	1158	77	85
+1075	Jacksonville University	1044	37	61
+1076	Jarvis Christian College	751	17	49
+1077	Jewish Theological Seminary of America
+1078	John Carroll University	1104	75	86
+1079	John F. Kennedy University
+1080	Johnson C. Smith University	850	42	71
+1081	Johnson State College		31	64
+1082	Johnson University
+1083	Jones International University		48
+1084	Judson College		38	65
+1085	Judson University	1066	50	72
+1086	Juilliard School		89	88
+1087	Juniata College	1165	75	86
+1088	Kansas City Art Institute	1027	59	76
+1089	Kansas State University	980	58	81
+1090	Kansas Wesleyan University	1000	40	55
+1091	Kaplan University
+1092	Keiser University		60	84
+1093	Kendall College		44	56
+1094	Kennesaw State University	1071	42	76
+1095	Kentucky Christian University	963	41	61
+1096	Kentucky State University	813	14	51
+1097	Kentucky Wesleyan College	957	36	59
+1098	Kettering College
+1099	Keuka College	929	52	69
+1100	Keystone College	891	42	65
+1101	King University	1000	50	70
+1102	King's College - Wilkes-Barre, PA	1036	68	78
+1103	King's College - New York, NY	1139	58	66
+1104	Kutztown University of Pennsylvania	954	55	76
+1105	Kuyper College		43	73
+1106	La Roche College	930	47	67
+1107	La Salle University	998	68	81
+1108	La Sierra University	947	45	75
+1109	LaGrange College	1014	43	64
+1110	Laguna College of Art and Design		50	73
+1111	Lake Erie College	991	48	66
+1112	Lake Forest College		70	84
+1113	Lake Superior State University		32	69
+1114	Lakeland College		43	68
+1115	Lakeview College of Nursing
+1116	Lamar University	905	32	62
+1117	Lancaster Bible College
+1118	Lander University		40	64
+1119	Lane College		38	57
+1120	Langston University		24	53
+1121	Lasell College	979	44	70
+1122	Lawrence Technological University	1134	45	75
+1123	Lawrence University	1273	73	89
+1124	Le Moyne College	1100	69	84
+1125	Lebanon Valley College	1087	72	85
+1126	Lee University	1066	49	72
+1127	Lees-McRae College	945	35	59
+1128	LeMoyne-Owen College		8	57
+1129	Lenoir-Rhyne University	1003	47	67
+1130	Lesley University	1076	46	76
+1131	LeTourneau University	1157	61	75
+1132	Lewis & Clark College	1281	76	86
+1133	Lewis University	1100	59	80
+1134	Lewis-Clark State College	975	26	51
+1135	Lexington College		13
+1136	Liberty University	1035	46	77
+1137	Life Pacific College
+1138	Life University		41	72
+1139	LIM College		54	64
+1140	Limestone College	1018	39	59
+1141	Lincoln Christian University	1003
+1142	Lincoln College			53
+1143	Lincoln Memorial University	1007	45	67
+1144	Lincoln University - Jefferson City, MO		23
+1145	Lincoln University - Lincoln University, PA	848	37	68
+1146	Lindenwood University	1027	41	72
+1147	Lindsey Wilson College		32	56
+1148	LIU Post	993	42	70
+1149	Livingstone College	749	23	52
+1150	Lock Haven University of Pennsylvania	950	49	70
+1151	Loma Linda University
+1152	Longwood University	1029	61	79
+1153	Loras College		62	76
+1154	Louisiana College	1020	41	62
+1155	Louisiana State University Health Sciences Center
+1156	Louisiana State University--Alexandria	1000	14	57
+1157	Louisiana State University--Shreveport	1075	27	66
+1158	Lourdes University		26	59
+1159	Loyola Marymount University	1205	75	90
+1160	Lubbock Christian University	981	43	64
+1161	Lycoming College	1031	65	81
+1162	Lyme Academy College of Fine Arts		72	82
+1163	Lynchburg College	1004	57	73
+1164	Lyndon State College		34	61
+1165	Lynn University	902	40	62
+1166	Lyon College	1073	49	65
+1167	MacMurray College	883	36	56
+1168	Madonna University	1024	36	81
+1169	Maharishi University of Management		50	80
+1170	Maine College of Art		45	77
+1171	Maine Maritime Academy	1026	62	80
+1172	Malone University	1029	62	69
+1173	Manchester University	1006	57	68
+1174	Manhattan Christian College
+1175	Manhattan College	1059	75	85
+1176	Manhattan School of Music		70
+1177	Manhattanville College	1052	57	73
+1178	Mansfield University of Pennsylvania	934	48	72
+1179	Maranatha Baptist Bible College	1045	46	75
+1180	Marian University - Indianapolis, IN	1024	59	72
+1181	Marian University - Fond du Lac, WI		51	71
+1182	Marietta College	1080	63	78
+1183	Marist College	1173	80	89
+1184	Marlboro College		59	64
+1185	Mars Hill University	949	46	57
+1186	Martin Luther College		72	84
+1187	Martin Methodist College		49	55
+1188	Martin University		16
+1189	Mary Baldwin College	933	50	66
+1190	Marygrove College		26	61
+1191	Marylhurst University		18	66
+1192	Marymount Manhattan College	1153	40	65
+1193	Maryville College	994	53	73
+1194	Marywood University	1045	67	83
+1195	Massachusetts College of Art and Design	1101	64	89
+1196	Massachusetts College of Liberal Arts	1040	47	74
+1197	Massachusetts College of Pharmacy and Health Sciences
+1198	Massachusetts Maritime Academy	1023	61	87
+1199	Master's College and Seminary	1098	56	80
+1200	Mayville State University		36	54
+1201	McKendree University	995	49	79
+1202	McMurry University	988	37	57
+1203	McNeese State University	1014	38	68
+1204	McPherson College		46	65
+1205	Medaille College	875	45	67
+1206	Medical University of South Carolina
+1207	Memorial University of Newfoundland
+1208	Memphis College of Art		42	66
+1209	Menlo College	974	42	71
+1210	Mercy College		34	65
+1211	Mercy College of Health Sciences
+1212	Mercy College of Ohio
+1213	Mercyhurst University	1069	66	81
+1214	Merrimack College	1029	64	81
+1215	Messiah College	1135	76	86
+1216	Methodist University		41	65
+1217	Metropolitan College of New York		33	49
+1218	Metropolitan State University	1150	23	64
+1219	Metropolitan State University of Denver	1068	25	66
+1220	Miami Dade College
+1221	Miami International University of Art & Design
+1222	Mid-America Christian University		17	58
+1223	Mid-Atlantic Christian University		32	62
+1224	Mid-Continent University		36	66
+1225	Middle Georgia State College		17	65
+1226	Middle Tennessee State University	1045	45	72
+1227	Midland College
+1228	Midland University		46	61
+1229	Midstate College		25	50
+1230	Midway College		49	77
+1231	Midwestern State University	985	41	71
+1232	Miles College		22	54
+1233	Millersville University of Pennsylvania	1009	64	81
+1234	Milligan College	1064	60	79
+1235	Millikin University	1036	55	78
+1236	Mills College	1159	63	78
+1237	Milwaukee Institute of Art and Design		57	73
+1238	Minneapolis College of Art and Design	1061	72	81
+1239	Minnesota State University--Mankato		55	75
+1240	Minnesota State University--Moorhead	1013	45	67
+1241	Minot State University	967	33	67
+1242	Misericordia University	1041	68	85
+1243	Mississippi College	1072	62	72
+1244	Mississippi University for Women	1094	39	73
+1245	Missouri Baptist University	975	38	67
+1246	Missouri Southern State University	1190	34	62
+1247	Missouri State University	1087	55	75
+1248	Missouri Valley College		30	50
+1249	Missouri Western State University		30	62
+1250	Mitchell College		33	66
+1251	Molloy College	1058	62	88
+1252	Monmouth College		58	75
+1253	Monroe College		65	76
+1254	Montana State University--Billings	980	33	57
+1255	Montana State University--Northern		26	60
+1256	Monterrey Institute of Technology and Higher Education--Monterrey
+1257	Montreat College		32	65
+1258	Montserrat College of Art		44	74
+1259	Moody Bible Institute
+1260	Moore College of Art & Design		55
+1261	Moravian College	1043	74	78
+1262	Morgan State University	889	30	71
+1263	Morris College		29
+1264	Morrisville State College	859	59	57
+1265	Mount Aloysius College	895	33	62
+1266	Mount Angel Seminary
+1267	Mount Carmel College of Nursing
+1268	Mount Holyoke College	1328	81	91
+1269	Mount Ida College	859	42	64
+1270	Mount Marty College		51	71
+1271	Mount Mary University		35	67
+1272	Mount Olive College	925	44	65
+1273	Mount St. Mary College	1005	56	71
+1274	Mount St. Mary's College	926	61	81
+1275	Mount St. Mary's University	1098	67	80
+1276	Mount Vernon Nazarene University	1017	54	74
+1277	Mount Washington College		14
+1278	Multnomah University	1053
+1279	Muskingum University	987	50	70
+1280	Naropa University		41	62
+1281	National American University		22
+1282	National Graduate School of Quality Management
+1283	National Hispanic University		20
+1284	National Labor College
+1285	National University		37
+1286	National-Louis University		20	41
+1287	Nazarene Bible College
+1288	Nazareth College	1115	73	83
+1289	Nebraska Methodist College	1007
+1290	Nebraska Wesleyan University		65	80
+1291	Neumann University	872	51	73
+1292	Nevada State College		16
+1293	New College of Florida	1295	69	84
+1294	New England College	895	42	60
+1295	New England Conservatory of Music		75	95
+1296	New England Institute of Art		39
+1297	New England Institute of Technology
+1298	New Jersey City University	867	34	70
+1299	New Mexico Highlands University	873	20	49
+1300	New Mexico Institute of Mining and Technology	1238	49	72
+1301	New Orleans Baptist Theological Seminary
+1302	New York Institute of Technology	1128	46	76
+1303	Newberry College	912	40	64
+1304	Newbury College	875	44	58
+1305	Newman University	1063	48	71
+1306	Niagara University	1038	67	79
+1307	Nicholls State University	951	39	69
+1308	Nichols College		50	67
+1309	Norfolk State University	874	36
+1310	North Carolina Central University	847	43	72
+1311	North Carolina Wesleyan College	874	24	55
+1312	North Central College		68	80
+1313	North Central University	1100	46	67
+1314	North Greenville University	1093	54	69
+1315	North Park University	1047	56	71
+1316	Northcentral University			100
+1317	Northeastern Illinois University		21	65
+1318	Northeastern State University		30	64
+1319	Northern Kentucky University	990	37	67
+1320	Northern Michigan University		47	72
+1321	Northern New Mexico College
+1322	Northern State University	1009	46	69
+1323	Northland College	1089	54	71
+1324	Northwest Christian University	977	44	70
+1325	Northwest Florida State College
+1326	Northwest Missouri State University	995	52	68
+1327	Northwest Nazarene University	1066	55	74
+1328	Northwest University	1061	48	75
+1329	Northwestern Health Sciences University
+1330	Northwestern Oklahoma State University	895	34	63
+1331	Northwestern State University of Louisiana	985	40	69
+1332	Northwood University	997	54	78
+1333	Notre Dame College of Ohio	936	36	66
+1334	Notre Dame de Namur University	967	47	74
+1335	Notre Dame of Maryland University	1019	48	74
+1336	Nova Scotia College of Art and Design
+1337	Nyack College		40	66
+1338	Oakland City University	910	65	75
+1339	Oakland University		43	73
+1340	Oakwood University	909	38	71
+1341	Oglala Lakota College
+1342	Oglethorpe University	1130	55	77
+1343	Ohio Christian University		45	53
+1344	Ohio Dominican University	993	41	63
+1345	Ohio Valley University	974	55	60
+1346	Ohio Wesleyan University	1133	68	83
+1347	Oklahoma Baptist University	1085	51	75
+1348	Oklahoma Christian University	1095	49	74
+1349	Oklahoma City University	1105	56	77
+1350	Oklahoma State University Institute of Technology--Okmulgee
+1351	Oklahoma State University--Oklahoma City
+1352	Oklahoma Wesleyan University	911	45	62
+1353	Olivet College		43	68
+1354	Olivet Nazarene University	1085	57	73
+1355	Olympic College
+1356	Oregon College of Art and Craft
+1357	Oregon Health and Science University
+1358	Otis College of Art and Design	1015	55	81
+1359	Ottawa University	800	41	54
+1360	Otterbein University	1085	59	76
+1361	Ouachita Baptist University	1069	59	78
+1362	Our Lady of Holy Cross College		27	65
+1363	Our Lady of the Lake College
+1364	Our Lady of the Lake University	887	27	61
+1365	Pacific Northwest College of Art		34
+1366	Pacific Oaks College
+1367	Pacific Union College	1021	40	73
+1368	Paine College	791	22	58
+1369	Palm Beach Atlantic University	1033	51	68
+1370	Palmer College of Chiropractic	1000
+1371	Park University		41	68
+1372	Parker University
+1373	Patten University		27	20
+1374	Paul Smith's College		38	62
+1375	Peirce College		42	100
+1376	Peninsula College
+1377	Pennsylvania College of Art and Design		48
+1378	Pennsylvania College of Technology		52	66
+1379	Pennsylvania State University--Erie, The Behrend College	1029
+1380	Pennsylvania State University--Harrisburg
+1381	Peru State College		34	58
+1382	Pfeiffer University	949	41	67
+1383	Philadelphia University	1053	61	77
+1384	Philander Smith College	951	31	70
+1385	Piedmont College	1040	52	74
+1386	Pine Manor College		38	60
+1387	Pittsburg State University		48	72
+1388	Pitzer College	1310	87	92
+1389	Plaza College
+1390	Point Loma Nazarene University	1157	75	83
+1391	Point Park University	1021	50	76
+1392	Point University	905	38	62
+1393	Polytechnic Institute of New York University	1280	62	86
+1394	Pontifical Catholic University of Puerto Rico
+1395	Pontifical College Josephinum
+1396	Post University	889	25	52
+1397	Potomac College		16	88
+1398	Prairie View A&M University	919	34	68
+1399	Pratt Institute	1186	65	82
+1400	Prescott College	1083	45	64
+1401	Presentation College		45	67
+1402	Principia College	1073	76	84
+1403	Puerto Rico Conservatory of Music
+1404	Purchase College--SUNY	1086	63	82
+1405	Purdue University--Calumet		27	69
+1406	Purdue University--North Central	935	18	56
+1407	Queens University of Charlotte	1047	52	72
+1408	Quincy University	963	56	72
+1409	Radford University	993	60	76
+1410	Randolph College	1102	57	76
+1411	Ranken Technical College		30
+1412	Regent's American College London
+1413	Regis College	932
+1414	Reinhardt University	878	27	65
+1415	Research College of Nursing
+1416	Resurrection University
+1417	Richmond--The American International University in London
+1418	Ringling College of Art and Design		66	81
+1419	Roanoke College	1077	65	79
+1420	Robert B. Miller College
+1421	Robert Morris University - Chicago, IL		48	51
+1422	Robert Morris University - Moon Township, PA	1021	54	77
+1423	Roberts Wesleyan College	1057	59	80
+1424	Rochester College		40	61
+1425	Rochester Institute of Technology	1199	63	87
+1426	Rockford University		39	64
+1427	Rocky Mountain College	973	51	66
+1428	Rocky Mountain College of Art and Design		51	55
+1429	Roger Williams University	1083	61	79
+1430	Rogers State University		20	56
+1431	Rollins College	1192	72	82
+1432	Rosalind Franklin University of Medicine and Science
+1433	Rosemont College	952	61	69
+1434	Rush University
+1435	Rust College		32	57
+1436	Rutgers, the State University of New Jersey--Camden	1035	63	82
+1437	Ryerson University
+1438	Sacred Heart Major Seminary
+1439	Saginaw Valley State University	990	39	70
+1440	Salem College	1109	62	79
+1441	Salem International University		35	46
+1442	Salem State University	983	45	76
+1443	Salish Kootenai College
+1444	Samuel Merritt University
+1445	San Diego Christian College	939	43	60
+1446	San Francisco Art Institute	1013	46	56
+1447	San Francisco Conservatory of Music		68	80
+1448	Sanford College of Nursing
+1449	Santa Clara University	1288	86	94
+1450	Santa Fe University of Art and Design	1036	50	45
+1451	Sarah Lawrence College		74	82
+1452	Savannah College of Art and Design	1059	66	82
+1453	Savannah State University		31	72
+1454	School of the Art Institute of Chicago		61	77
+1455	School of Visual Arts	1020	68	81
+1456	Schreiner University	966	39	65
+1457	Scripps College	1360	90	92
+1458	Seton Hill University		57	75
+1459	Shaw University	735	26	52
+1460	Shawnee State University	929	20	52
+1461	Shenandoah University	1012	38	75
+1462	Shepherd University	1011	43	67
+1463	Shimer College		38	84
+1464	Shippensburg University of Pennsylvania	984	57	71
+1465	Shorter University		51	71
+1466	Siena College	1107	73	88
+1467	Sierra Nevada College		49	66
+1468	Silver Lake College		42	60
+1469	Simmons College	1149	67	82
+1470	Simon Fraser University
+1471	Simpson University	1003	41	69
+1472	Sinte Gleska University
+1473	Sitting Bull College
+1474	Skidmore College	1225	88	94
+1475	Slippery Rock University of Pennsylvania	996	62	81
+1476	Smith College	1317	85	92
+1477	Sojourner-Douglass College		24
+1478	Soka University of America	1196	92	95
+1479	Sonoma State University	1011	59	80
+1480	South College		26
+1481	South Seattle Community College
+1482	South Texas College
+1483	South University	830	24	46
+1484	Southeast Missouri State University		46	72
+1485	Southeastern Oklahoma State University		30	56
+1486	Southeastern University		40	65
+1487	Southern Adventist University	1024	48	71
+1488	Southern Arkansas University	965	34	61
+1489	Southern Baptist Theological Seminary
+1490	Southern California Institute of Architecture		67
+1491	Southern Illinois University--Carbondale		50	66
+1492	Southern Illinois University--Edwardsville	1006	52	71
+1493	Southern Nazarene University		40	64
+1494	Southern Polytechnic State University	1109	37	75
+1495	Southern University and A&M College		26	76
+1496	Southern University--New Orleans		6	47
+1497	Southern Vermont College	1086	31	58
+1498	Southern Wesleyan University		42	70
+1499	Southwest Baptist University		48	62
+1500	Southwest Minnesota State University		40	69
+1501	Southwest University of Visual Arts		53
+1502	Southwestern Adventist University	924	38	62
+1503	Southwestern Assemblies of God University	989	38	67
+1504	Southwestern Christian College
+1505	Southwestern Christian University		20	60
+1506	Southwestern Oklahoma State University		35	64
+1507	Southwestern University	1203	75	86
+1508	Spalding University	941	38	73
+1509	Spring Arbor University		52	74
+1510	Spring Hill College	1081	62	76
+1511	Springfield College	1016	66	85
+1512	St. Anthony College of Nursing
+1513	St. Augustine College
+1514	St. Augustine's University		36	51
+1515	St. Bonaventure University	1039	64	81
+1516	St. Catharine College		10	55
+1517	St. Catherine University		59	82
+1518	St. Charles Borromeo Seminary
+1519	St. Cloud State University		49	71
+1520	St. Edward's University	1119	69	81
+1521	St. Francis College	939	52	79
+1522	St. Francis Medical Center College of Nursing
+1523	St. Francis University	1022	65	83
+1524	St. Gregory's University		28	42
+1525	St. John Fisher College	1049	75	83
+1526	St. John Vianney College Seminary
+1527	St. John's College - Annapolis, MD		67	90
+1528	St. John's College - Santa Fe, NM		54	72
+1529	St. John's College - Springfield, IL
+1530	St. John's University - Collegeville, MN	1057	77	91
+1531	St. John's University - Queens, NY	1095	59	78
+1532	St. Joseph Seminary College
+1533	St. Joseph's College - Rensselaer, IN	973	50	64
+1534	St. Joseph's College - Standish, ME		57	93
+1535	St. Joseph's College New York	1043	67	85
+1536	St. Joseph's University	1121	79	88
+1537	St. Lawrence University	1215	80	92
+1538	St. Leo University	1011	43	69
+1539	St. Louis College of Pharmacy	1260
+1540	St. Luke's College of Health Sciences
+1541	St. Martin's University	1030	54	73
+1542	St. Mary's College	1125	78	87
+1543	St. Mary's College of California	1110	61	87
+1544	St. Mary's College of Maryland	1202	81	88
+1545	St. Mary's Seminary and University
+1546	St. Mary's University of Minnesota	971	62	76
+1547	St. Mary's University of San Antonio	1029	53	75
+1548	St. Mary-of-the-Woods College	939	62	72
+1549	St. Michael's College	1144	82	89
+1550	St. Norbert College		75	83
+1551	St. Paul's College		16	37
+1552	St. Peter's University	933	52	75
+1553	St. Petersburg College
+1554	St. Thomas Aquinas College	963	49	77
+1555	St. Vincent College	1051	73	83
+1556	St. Xavier University	965	54	72
+1557	Stephen F. Austin State University	980	43	64
+1558	Stephens College	1028	56	67
+1559	Sterling College - Sterling, KS	925	34	62
+1560	Sterling College - Craftsbury Common, VT		49	65
+1561	Stetson University	1143	64	78
+1562	Stevenson University	991	64	75
+1563	Stillman College	895	25	58
+1564	Stonehill College	1153	80	89
+1565	Suffolk University	1013	56	74
+1566	Sul Ross State University	1003	24
+1567	Sullivan University		69
+1568	SUNY College of Agriculture and Technology--Cobleskill	880	48	75
+1569	SUNY College of Technology--Alfred	939	55	78
+1570	SUNY College of Technology--Canton	887	32	68
+1571	SUNY College of Technology--Delhi	902	57	68
+1572	SUNY College--Old Westbury	983	35	77
+1573	SUNY College--Potsdam		51	77
+1574	SUNY Downstate Medical Center
+1575	SUNY Empire State College		23
+1576	SUNY Institute of Technology--Utica/Rome	1060	34	71
+1577	SUNY Maritime College	1091	44	77
+1578	SUNY Upstate Medical University
+1579	Susquehanna University		74	85
+1580	Sweet Briar College	1055	62	77
+1581	Tabor College	971	50	65
+1582	Talladega College		20	55
+1583	Tarleton State University		40	67
+1584	Tennessee Technological University	1102	52	73
+1585	Tennessee Wesleyan College	920	44	64
+1586	Texas A&M International University	914	39	71
+1587	Texas A&M University--Commerce		36	68
+1588	Texas A&M University--Corpus Christi	956	40	62
+1589	Texas A&M University--Galveston
+1590	Texas A&M University--Kingsville	887	32	59
+1591	Texas A&M University--Texarkana			44
+1592	Texas College		7	49
+1593	Texas Lutheran University	979	46	69
+1594	Texas Southern University	817	12	63
+1595	Texas State University	1031	54	79
+1596	Texas Tech University Health Sciences Center
+1597	Texas Wesleyan University	1000	36	64
+1598	The Sage Colleges	946	52	76
+1599	Thiel College	955	32	62
+1600	Thomas Aquinas College	1273	76	85
+1601	Thomas College	905	40	60
+1602	Thomas Edison State College	1020
+1603	Thomas Jefferson University
+1604	Thomas More College	1022	49	68
+1605	Thomas More College of Liberal Arts		59
+1606	Thomas University		14	47
+1607	Tiffin University	968	38	65
+1608	Tilburg University
+1609	Toccoa Falls College	1035	45	68
+1610	Tougaloo College	823	52	75
+1611	Touro College	1159	56	83
+1612	Trent University
+1613	Trident University International		72
+1614	Trine University	1079	53	73
+1615	Trinity Christian College	1107	56	77
+1616	Trinity College of Nursing & Health Sciences
+1617	Trinity Lutheran College		61	62
+1618	Trinity University - Washington, DC		39	66
+1619	Trinity University - San Antonio, TX	1241	80	89
+1620	Trinity Western University
+1621	Truett McConnell College		14	60
+1622	Tusculum College		38	59
+1623	Union College - Barbourville, KY		34	56
+1624	Union College - Lincoln, NE	988	50	69
+1625	Union College - Schenectady, NY	1293	83	93
+1626	Union Institute and University		20	67
+1627	United States Coast Guard Academy	1226	84	89
+1628	United States International University--Kenya
+1629	United States Merchant Marine Academy	1259	74	83
+1630	United States Military Academy	1257	83	94
+1631	United States Naval Academy	1320	87	97
+1632	United States Sports Academy
+1633	Unity College		50	71
+1634	Universidad Adventista de las Antillas
+1635	Universidad del Este
+1636	Universidad del Turabo
+1637	Universidad Metropolitana
+1638	Universidad Politecnica De Puerto Rico
+1639	University at Buffalo--SUNY	1151	70	88
+1640	University of Advancing Technology		30	63
+1641	University of Akron	1020	40	70
+1642	University of Alaska--Anchorage	1029	26	72
+1643	University of Alaska--Fairbanks	1033	33	77
+1644	University of Alaska--Southeast		24	58
+1645	University of Alberta
+1646	University of Arkansas for Medical Sciences
+1647	University of Arkansas--Fort Smith		24	62
+1648	University of Arkansas--Little Rock		20	62
+1649	University of Arkansas--Monticello		25	39
+1650	University of Baltimore	953		78
+1651	University of British Columbia
+1652	University of Calgary
+1653	University of Central Arkansas	1010	41	71
+1654	University of Central Missouri		49	72
+1655	University of Central Oklahoma	1060	39	66
+1656	University of Charleston	961	41	65
+1657	University of Cincinnati--UC Blue Ash College
+1658	University of Findlay	1035	51	76
+1659	University of Great Falls		23	59
+1660	University of Guam
+1661	University of Guelph
+1662	University of Hawaii--Hilo		33	70
+1663	University of Hawaii--Maui College
+1664	University of Hawaii--West Oahu	881		52
+1665	University of Houston--Clear Lake
+1666	University of Houston--Downtown	876	12	62
+1667	University of Houston--Victoria			54
+1668	University of Illinois--Springfield		47	74
+1669	University of Indianapolis	1003	54	74
+1670	University of Jamestown	917	50	70
+1671	University of Kansas	1223	64	79
+1672	University of Maine--Augusta		16	54
+1673	University of Maine--Farmington	973	59	73
+1674	University of Maine--Fort Kent	893	41	66
+1675	University of Maine--Machias	905	30	67
+1676	University of Maine--Presque Isle		37	65
+1677	University of Mary		52	76
+1678	University of Mary Hardin-Baylor	1005	46	63
+1679	University of Maryland--Eastern Shore	869	32	68
+1680	University of Maryland--University College		10
+1681	University of Massachusetts--Dartmouth	1044	50	73
+1682	University of Medicine and Dentistry of New Jersey
+1683	University of Michigan--Flint	1108	36	72
+1684	University of Minnesota--Crookston	1003	47	70
+1685	University of Minnesota--Duluth	1058	54	77
+1686	University of Minnesota--Morris	1183	60	82
+1687	University of Mississippi Medical Center
+1688	University of Missouri--St. Louis	1073	47	75
+1689	University of Mobile		43	74
+1690	University of Mount Union	1039	65	75
+1691	University of Nebraska Medical Center
+1692	University of Nebraska--Kearney	1107	56	80
+1693	University of Nebraska--Omaha	1200	46	73
+1694	University of New Brunswick
+1695	University of North Carolina School of the Arts	1118	59	82
+1696	University of North Carolina--Pembroke	906	34	67
+1697	University of North Georgia	1108	54	78
+1698	University of Northwestern Ohio		42
+1699	University of Northwestern--St. Paul	1135	68	78
+1700	University of Ottawa
+1701	University of Pikeville	871	28	52
+1702	University of Prince Edward Island
+1703	University of Puerto Rico--Aguadilla
+1704	University of Puerto Rico--Arecibo
+1705	University of Puerto Rico--Bayamon
+1706	University of Puerto Rico--Cayey
+1707	University of Puerto Rico--Humacao
+1708	University of Puerto Rico--Mayaguez
+1709	University of Puerto Rico--Medical Sciences Campus
+1710	University of Puerto Rico--Ponce
+1711	University of Puerto Rico--Rio Piedras
+1712	University of Redlands	1134	72	86
+1713	University of Regina
+1714	University of Rio Grande		30	54
+1715	University of Saskatchewan
+1716	University of Science and Arts of Oklahoma		40	65
+1717	University of Scranton	1130	83	88
+1718	University of Sioux Falls	968	48	69
+1719	University of South Carolina--Aiken	969	43	70
+1720	University of South Carolina--Beaufort	938	23	54
+1721	University of South Carolina--Upstate	953	38	67
+1722	University of South Florida--St. Petersburg	1056	33	67
+1723	University of Southern Indiana	989	36	67
+1724	University of St. Francis - Joliet, IL		56	79
+1725	University of St. Francis - Fort Wayne, IN	963	50	72
+1726	University of St. Joseph	979	56	76
+1727	University of St. Mary	961	37	56
+1728	University of St. Thomas - St. Paul, MN	1188	74	88
+1729	University of St. Thomas - Houston, TX	1118	48	77
+1730	University of Tampa	1071	57	73
+1731	University of Tennessee--Chattanooga	1025	38	68
+1732	University of Tennessee--Martin		49	73
+1733	University of Texas Health Science Center--Houston
+1734	University of Texas Health Science Center--San Antonio
+1735	University of Texas Medical Branch--Galveston
+1736	University of Texas of the Permian Basin	1028	37	62
+1737	University of Texas--Brownsville		19	57
+1738	University of Texas--Pan American	943	39	74
+1739	University of Texas--San Antonio	1026	28	60
+1740	University of Texas--Tyler		41	64
+1741	University of the Arts	1002	63	81
+1742	University of the Cumberlands	951	45	61
+1743	University of the District of Columbia		16	46
+1744	University of the Incarnate Word	962	47	74
+1745	University of the Ozarks	1043	48	65
+1746	University of the Sacred Heart
+1747	University of the Sciences	1164
+1748	University of the Southwest		20	61
+1749	University of the Virgin Islands	807
+1750	University of the West
+1751	University of Toledo	998	45	65
+1752	University of Toronto
+1753	University of Victoria
+1754	University of Virginia--Wise	937	42	68
+1755	University of Waterloo	1446
+1756	University of West Alabama		34	62
+1757	University of Windsor
+1758	University of Winnipeg
+1759	University of Wisconsin--Superior		35	70
+1760	University of Wisconsin--Whitewater	1061	58	79
+1761	Urbana University		31	56
+1762	Ursuline College	939	53	68
+1763	Utah Valley University	948	21	63
+1764	Utica College	942	47	65
+1765	Valdosta State University	1014	41	69
+1766	Valley City State University	904	41	61
+1767	Valley Forge Christian College		50	69
+1768	VanderCook College of Music	1228	50	87
+1769	Vanguard University of Southern California	1010	55	74
+1770	Vaughn College of Aeronautics and Technology	1045	57	83
+1771	Vermont Technical College	925	55	71
+1772	Victory University		16	55
+1773	Vincennes University
+1774	Virginia Intermont College	959	17	63
+1775	Virginia Union University	778	30	53
+1776	Virginia Wesleyan College	1007	48	66
+1777	Viterbo University		50	71
+1778	Voorhees College		29	49
+1779	Wabash College	1135	73	86
+1780	Wagner College	1124	66	80
+1781	Wake Forest University		87	94
+1782	Walden University	870		80
+1783	Waldorf College		43	37
+1784	Walla Walla University	1065	53	79
+1785	Walsh College of Accountancy and Business Administration
+1786	Walsh University	1030	64	74
+1787	Warner Pacific College	980	54	68
+1788	Warner University	877	40	59
+1789	Warren Wilson College	1120	57	68
+1790	Washburn University	820	34	65
+1791	Washington Adventist University	893	31	68
+1792	Washington and Jefferson College	1136	74	85
+1793	Watkins College of Art, Design & Film		45
+1794	Wayland Baptist University	920	36	56
+1795	Wayne State College		53	68
+1796	Wayne State University	990	28	76
+1797	Waynesburg University		60	79
+1798	Webb Institute	1359	88	87
+1799	Webber International University	916	32	50
+1800	Weber State University		45	73
+1801	Welch College	1017	38	63
+1802	Wells College		59	71
+1803	Wentworth Institute of Technology	1069	64	67
+1804	Wesley College	895	34	46
+1805	Wesleyan College	993	48	81
+1806	West Chester University of Pennsylvania	1061	69	85
+1807	West Liberty University	855	41	70
+1808	West Texas A&M University	975	43	64
+1809	West Virginia State University	877	21	54
+1810	West Virginia University Institute of Technology	987
+1811	West Virginia University--Parkersburg		21	67
+1812	West Virginia Wesleyan College	957	58	69
+1813	Western Carolina University	1017	48	74
+1814	Western Governors University		23	82
+1815	Western Illinois University		54	72
+1816	Western International University	826	3	28
+1817	Western Michigan University		56	74
+1818	Western Nevada College
+1819	Western New England University	1067	61	75
+1820	Western New Mexico University		18	52
+1821	Western University
+1822	Westfield State University	1005	60	80
+1823	Westminster College - Fulton, MO	1000	70	81
+1824	Westminster College - New Wilmington, PA	1063	78	86
+1825	Westmont College	1196	78	87
+1826	Wheaton College - Norton, MA	1230	82	87
+1827	Wheeling Jesuit University	1011	60	76
+1828	Wheelock College	985	57	71
+1829	Whittier College	1071	67	82
+1830	Whitworth University	1198	76	85
+1831	Wilberforce University		29
+1832	Wiley College	729	22	55
+1833	Wilkes University	1041	61	80
+1834	William Carey University	993	58	76
+1835	William Jessup University	1029
+1836	William Peace University	896	45	67
+1837	William Penn University		27	60
+1838	William Woods University		48	79
+1839	Williams Baptist College		43	65
+1840	Wilmington College		48	68
+1841	Wilmington University	1170	39	68
+1842	Wilson College	983	37	66
+1843	Wingate University	1005	45	72
+1844	Winona State University	1010	53	77
+1845	Winston-Salem State University	887	37	78
+1846	Wisconsin Lutheran College		58	77
+1847	Wittenberg University	1128	65	78
+1848	Woodbury University	969	59	78
+1849	Worcester Polytechnic Institute	1271	84	95
+1850	Worcester State University	994	51	78
+1851	Wright State University	988	40	65
+1852	York College	934	26	64
+1853	York College of Pennsylvania	1030	59	76
+1854	York University
+1855	Youngstown State University	920	33	69
+1856	BMG
+1857	UCSB
+1859	Augusta State University
+1860	CSU Channel Islands
+1861	Leadership Institute of Seattle Saybrook University
+1862	El Camino College	826
+1863	CUNY
+1864	California State University- Sacremento
+1865	American Intercontinental University	826
+1866	Saitama University, JAPAN	826
+1867	Al Mustansiriyah Uni.	826
+1868	Vesalius College	826
+1869	elizabeth city state university
+1870	Texas A&M University--College Station	1169	80	92
+1871	Hanoi University of Law	826
+1872	Skyline College
+1873	SUNY Albany
+1874	Chulalongkorn University	826
+1875	North Carolina a&t state university	870
+1876	Queens College	1110
+1877	Indiana University (South Bend)	955
+1878	DeVry Institute of Technology
+1879	Albert-Ludwigs-Universität Freiburg im Breisgau
+1880	Univeristy of California, Merced
+1881	Atlantic Cape CC
+1882	Baruch College
+1883	Ateneo De Manila University
+1884	New York University Gallatin
+1885	Devry University
+1886	long Island University	875
+1887	MGIMO	826
+1888	National College of Midwifery	800
+1889	embry riddle aeronautical
+1890	Pennsylvania State University 	1195
+1891	Saint Petersburg College
+1892	University of Pune, India	826
+1893	Colorado state university	1140
+1894	Polytechnic University of Puerto Rico	826
+1895	Wolford College	1170
+1896	St.Edwards University
+1897	American Military University
+1898	Ashworth College	826
+1899	Western Illinois 	950
+1900	Wheaton College
+1901	JKUAT, Kenya	826
+1902	University of miami
+1903	DeVry
+1904	mcgill university
+1905	UAB
+1906	Michigan technological university
+1907	West Virginia University at Parkersburg	826
+1908	Massachusetts Institute of Technology 	1470
+1909	University of wisconsin-Superior	990
+1910	School of Oriental and African Studies - University of London	826
+1911	Keller Scholl of management	920
+1912	Devry
+1913	West wood college	960
+1914	COLORADO TECHNICAL UNIVERSITY
+1915	University of Pune
+1916	Chicago School of Professional Psychology	826
+1917	 university of Minnesota
+1918	 Gustavus Adolphus College	1255
+1919	Arizona School of Dentistry and Oral Health
+1920	University of Michigan--Dearborn	1150	52	82
+1921	Mumbai University	826
+1922	University of Helsinki, Finland	826
+1923	Bryant university 	1125
+1924	University of North Carolina
+1925	Boston university
+1926	Eastern Florida State	1066
+1927	University of Illinois-Springfield	1090
+1928	Saint Anthony College of Nursing 	826
+1929	Miami dade college
+1930	University of Texas at Arlington	1070
+1931	university of maryland eastern shore	870
+1932	Some Shit School
+1933	University of Leeds Business School
+1934	University of Texas at Tyler
+1935	Cleary University 	790
+1936	Université Panthéon-Assas (Paris II)	826
+1937	UC Santa Cruz
+1938	Loughborough University	1200
+1939	The London School of Economics & Science
+1940	The London School of Economics & Political Science
+1941	Maharishi International University	1080
+1942	National Institute of Technology, Trichy, India
+1943	University of Masschusetts Amherst
+1944	Full Sail University	920
+1945	Jadavpur University	826
+1946	Arizona state university
+1947	University of the West Indies	1033
+1948	University of Auckland	1100
+1949	ball state university	1060
+1950	Yonsei University	826
+1951	University of Illinois-- Springfield	1065
+1952	Southern Illinois University carbondale
+1953	University of Mumbai	826
+1954	Monash University, Melbourne - Australia	1140
+1955	KBP Satara,India
+1956	Rollins college	1185
+1957	University Of Mumbai
+1958	saic
+1959	University of Wisconsin - Madison	1290
+1960	Delhi University
+1961	Missouri university of science and technology	1245
+1962	PFeiffer	915
+1963	St. Edwards University	1115
+1964	Keller Grad School of Management	920
+1965	Academy of Economic Studies Romania	826
+1966	Binghamton University
+1967	University of kentucky
+1968	University of Kentucky
+1969	university of kansas
+1970	Queen Mary University of London	826
+1971	Indian Institute of Technology Bombay	826
+1972	Montana Tech
+1973	Roseman Health Sciences	826
+1974	University of Sydney	1060
+1975	Penn state
+1976	Diablo Valley College
+1977	Art Institute of San Francisco	908
+1978	San Francisco state
+1979	Auburn university 	1180
+1980	IIT
+1981	Bradley university	1150
+1982	Northland International University	826
+1983	Iowa state university
+1984	Pennsylvania Academy of Fine Arts
+1985	Saginaw Valley State Univesity
+1986	SVSU
+1987	Rutgers University
+1988	University of Minnesota	1290
+1989	BRIGHAM YOUNG UNIVERSITY (IDAHO)
+1990	School of visual arts	1200
+1991	Atlantic Cape Community College
+1992	University of St. Gallen (Switzerland)	826
+1993	University of Puerto Rico-Mayaguez	1230
+1994	School of Art Institute of Chicago	1130
+1995	University of Puerto Rico - Mayaguez
+1996	The New England Institute of Art
+1997	Tsinghua University
+1998	The Illinois Institute of Art, Chicago
+1999	Pontificia Universidad Javeriana
+2000	carey school of business
+2001	Edinburgh University or similar in that area, applying for 2015
+2002	University of California Santa Cruz
+2003	Indiana University - Bloomington	1165
+2004	JMU
+2005	Carey Business School	820
+2006	University of Lagos	820
+2007	Art Institute of Phildelphia	820
+2008	University of Maine at Presque Isle	820
+2009	University of Liverpool
+2010	Northeastern University & Eastern Nazarene College
+2011	asdasd
+2012	American Univ. of Dubai
+2013	West Texas A & M
+2014	Yale
+2015	SUNY Oswego
+2016	SUNY - Empire State College
+2017	Derby
