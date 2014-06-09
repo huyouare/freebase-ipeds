@@ -6,15 +6,15 @@ import csv
 f = open('links.txt', 'r')
 content = f.readlines()
 
+count = 0
+total = 0
+
 for link in content:
   print link
   response = urllib2.urlopen(link).read()
   soup = BeautifulSoup(response)
   print soup.title.string
   noresults = soup.find(class_='noresults')
-
-  count = 0
-  total = 0
 
   if noresults:
     count = count + 1
