@@ -30,6 +30,7 @@ outfile = open('union.csv', 'w')
 union_writer = csv.writer(outfile)
 
 outfile = open('links.html', 'w')
+outfile2 = open('links.txt', 'w')
 
 with open('join.csv', 'wb') as csvfile:
   writer = csv.writer(csvfile)
@@ -44,3 +45,4 @@ with open('join.csv', 'wb') as csvfile:
     union_writer.writerow([ x, '', accred_id_dict[x], accred_name_dict[x] ])
   for x in accred_diff:
     outfile.write( '<a href="http://nces.ed.gov/collegenavigator/?id=' + x + '">' + x + '</a>' + '\n' )
+    outfile2.write( 'http://nces.ed.gov/collegenavigator/?id=' + str(x) )
