@@ -3,13 +3,18 @@ from bs4 import BeautifulSoup
 import urllib2
 import csv
 
-f = open('links.txt', 'r')
+# f = open('links.txt', 'r')
+# content = f.readlines()
+
+f = open('./diff-output/ipeds-vs-accred.txt', 'r')
 content = f.readlines()
 
 count = 0
 total = 0
 
 for link in content:
+  link = 'http://nces.ed.gov/collegenavigator/?id=' + str(link)
+
   print link
   response = urllib2.urlopen(link).read()
   soup = BeautifulSoup(response)
