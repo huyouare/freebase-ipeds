@@ -6,14 +6,19 @@ import csv
 # f = open('links.txt', 'r')
 # content = f.readlines()
 
-f = open('./diff-output/ipeds-vs-accred.txt', 'r')
-content = f.readlines()
+f = open('./diff-output/accred-vs-ipeds-with-names.csv', 'r')
+reader = csv.reader(f)
+next(reader)
+
+outfile = open('accred-not-found.csv', 'w')
+writer = csv.writer(outfile)
+writer.writerow(['IPEDS ID', 'School Name', 'OPE ID'])
 
 count = 0
 total = 0
 
-for link in content:
-  link = 'http://nces.ed.gov/collegenavigator/?id=' + str(link)
+for row in reader:
+  link = 'http://nces.ed.gov/collegenavigator/?id=' + str(row[0])
 
   print link
   response = urllib2.urlopen(link).read()
@@ -22,6 +27,7 @@ for link in content:
   noresults = soup.find(class_='noresults')
 
   if noresults:
+    writer.writerow(row)
     count = count + 1
     total = total + 1
   else:
