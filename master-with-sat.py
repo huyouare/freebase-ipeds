@@ -20,7 +20,7 @@ empty_row = [''] * 12
 with open('master-matching.csv', 'rU') as csvfile:
   reader = csv.reader(csvfile)
   row = next(reader)
-  writer.writerow( row + ['Percent Submitting SAT', 'Percet Submitting ACT', 'SAT CR 25th', 'SAT CR 75th', 'SAT M 25th', 'SAT M 75th', 'SAT W 25th', 'SAT W 75th', 'ACT Composite 25th', 'ACT Composite 75th', 'Graduation Rate', 'Retention Rate'])
+  writer.writerow( row + ['Percent Submitting SAT', 'Percent Submitting ACT', 'SAT CR 25th', 'SAT CR 75th', 'SAT M 25th', 'SAT M 75th', 'SAT W 25th', 'SAT W 75th', 'ACT Composite 25th', 'ACT Composite 75th', 'Graduation Rate', 'Retention Rate'])
   for row in reader:
     new_row = row
     if (row[0] != '') and (int(row[0]) in ipeds_colleges):
