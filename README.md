@@ -62,7 +62,9 @@ In addition, 4-Year institutions were designated based on the data (Level 5 or h
 As part of a separate project, the old school list was matched by name to freebase IDs (m\_id). Using the Freebase Search and Reconciliation APIs, the Freebase IDs were collected for all (real) colleges. The Freebase entities for each college were then used to collect the IPEDS IDs (from the IPEDS 'namespace'). The IPEDS ID is the same as 'gov\_id' in the previous model.
 
 ##### Joining Data
-
+join-accred-with-ipeds.py
+join-accred-ipeds-freebase.py
+name-conflicts.py
 
 ##### Current process steps
 `python master-script.py`  
@@ -71,6 +73,6 @@ As part of a separate project, the old school list was matched by name to freeba
 
 ####Notes:
 * Previous College List size: 1982
-* New 'master' list size: 8528
-* 4-Year (undergraduate) colleges in new list: 2869
+* New 'master' list size: 8528  
+* 4-Year (undergraduate) colleges in new list: 2869  
 Majors: http://nces.ed.gov/ipeds/cipcode/resources.aspx?y=55
