@@ -15,7 +15,7 @@ import sys
 #from fuzzywuzzy import process
 
 def run(int_suffix):
-  outfile = open('master-matching-' + str(int_suffix) + '.csv', 'w')
+  outfile = open('master-matching' + str(int_suffix) + '.csv', 'w')
   writer = csv.writer(outfile)
 
   #Get OPE IDs from accredidation
@@ -35,6 +35,8 @@ def run(int_suffix):
   ipeds_2012 = set()
   ipeds_2012_names = dict()
   ipeds_2012_opeid = dict()
+  ipeds_2012_ugoffer = dict() # Undergraduate Offering
+                              # where 1 = YES, 2 = NO
   ipeds_2012_hloffer = dict() # Highest Level Offered
                               # where 5 = Batchelor's degree
 
@@ -46,6 +48,7 @@ def run(int_suffix):
       ipeds_2012_names[row[0]] = row[1]
       ipeds_2012_opeid[row[0]] = row[12]
       ipeds_2012_hloffer[row[0]] = int(row[22])
+      ipeds_2012_ugoffer[row[0]] = int(row[23]) 
 
 
   #Start matching process
@@ -73,7 +76,7 @@ def run(int_suffix):
         name = ipeds_2012_names[ipeds]
         opeid = ipeds_2012_opeid[ipeds]
         print "In ipeds_2012: " + name + " " + opeid + " HLOFFER: " + str(ipeds_2012_hloffer[ipeds])
-        four_year = 'YES' if (ipeds_2012_hloffer[ipeds] >= 5) else 'NO'
+        four_year = 'YES' if (ipeds_2012_hloffer[ipeds] >= 5 and ipeds_2012_ugoffer[ipeds] == 1) else 'NO'
         print "Four-Year: " + four_year
 
       else:
