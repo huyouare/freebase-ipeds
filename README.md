@@ -45,6 +45,7 @@ Considering the three most complete sources - IPEDS, Freebase, and DoE Accredida
 ###### Download from Data Center:   
 Select "Download Custom Data Files"   
 Click "Select" to get all institutions   
+(May not work. Instead, choose one variable that all schools have, and select the full range - e.g. 
 Use drop-downs and search to select variables   
 Download as CSV   
 
@@ -61,15 +62,22 @@ In addition, 4-Year institutions were designated based on the data (Level 5 or h
 ##### Freebase Reconciliation
 As part of a separate project, the old school list was matched by name to freebase IDs (m\_id). Using the Freebase Search and Reconciliation APIs, the Freebase IDs were collected for all (real) colleges. The Freebase entities for each college were then used to collect the IPEDS IDs (from the IPEDS 'namespace'). The IPEDS ID is the same as 'gov\_id' in the previous model.
 
+##### Name Conflicts
+The IPEDS Data was chosen as the authority on college names, with the exception being when a college is not found in IPEDS. A few colleges' names were taken from the corresponding College Navigator page. 
+
 ##### Joining Data
-join-accred-with-ipeds.py
-join-accred-ipeds-freebase.py
-name-conflicts.py
+
+Join Accredidation list with IPEDS 2012 list, on IPEDS ID, keeping the DoE ID  
+`join-accred-with-ipeds.py`  
+Join the created list with the Freebase list, keeping the Freebase ID   
+`join-accred-ipeds-freebase.py`    
+Use 'fuzzy matching' package to find where names do not match   
+`name-conflicts.py`   
 
 ##### Current process steps
 `python master-script.py`  
 `python master-with-sat.py`  
-`python append-debt-and-default.py`
+`python append-debt-and-default.py`   
 
 ####Notes:
 * Previous College List size: 1982
