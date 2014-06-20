@@ -14,6 +14,8 @@ with open('ipeds-2012.csv', 'rU') as csvfile:
 outfile = open('master-with-sat.csv', 'w')
 writer = csv.writer(outfile)
 
+empty_row = [''] * 12
+
 # vs master-matching
 with open('master-matching.csv', 'rU') as csvfile:
   reader = csv.reader(csvfile)
@@ -23,4 +25,6 @@ with open('master-matching.csv', 'rU') as csvfile:
     new_row = row
     if (row[0] != '') and (int(row[0]) in ipeds_colleges):
       new_row = new_row + ipeds_dict[int(row[0])]
+    else:
+      new_row = new_row + empty_row
     writer.writerow(new_row)
