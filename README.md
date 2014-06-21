@@ -79,6 +79,46 @@ Use 'fuzzy matching' package to find where names do not match
 `python master-with-sat.py`  
 `python append-debt-and-default.py`   
 
+##### Previous Colleges Schema
+```ruby
+create_table "colleges", :force => true do |t|
+  t.integer  "university_id"
+  t.integer  "median_sat_score"
+  t.integer  "median_starting_salary"
+  t.integer  "median_mid_career_salary"
+  t.decimal  "average_annual_salary_growth_rate"
+  t.datetime "created_at",                        :null => false
+  t.datetime "updated_at",                        :null => false
+  t.string   "name"
+  t.integer  "graduation_rate"
+  t.integer  "retention_rate"
+  t.integer  "gov_id"
+end
+```
+
+##### New Attributes
+Attribute | Description
+------------- | -------------
+DoE ID     | Department of Education Accredidation Data ID
+Freebase mid | Freebase ID '/m/XXXXXX'
+OPE ID    | Department of Education Office of Postsecondary Education ID (found in IPEDS and DoE data)
+Four-Year | "YES" if the institution grants four-year undergraduate degrees, otherwise "NO"
+Test Scores Required | "YES" if the institution requires submission of test scores for admission, otherwise "NO"
+SAT CR 25th | 25th Percentile Score on SAT Critical Reading Section (IPEDS 2012)
+SAT CR 75th	| 75th Percentile Score on SAT Critical Reading Section (IPEDS 2012)
+SAT M 25th	| 25th Percentile Score on SAT Math Section (IPEDS 2012)
+SAT M 75th	| 75th Percentile Score on SAT Math Section (IPEDS 2012)
+SAT W 25th	| 25th Percentile Score on SAT Writing Section (IPEDS 2012)
+SAT W 75th	| 75th Percentile Score on SAT Writing Section (IPEDS 2012)
+ACT Composite 25th	| 25th Percentile ACT Composite Score (IPEDS 2012)
+ACT Composite 75th	| 75th Percentile ACT Composite Score (IPEDS 2012)
+Graduation Rate	| Graduation Rate (Total cohort) from IPEDS
+Retention Rate	| Retention Rate from IPEDS
+Avg Debt of Graduates	|
+NBD 1	| Number of student defaults (3-Year) from PayScale
+NBR 1	| Number of students entered repayment (3-Year) from PayScale
+DRATE | Default rate (NBD/DBR) from PayScale
+
 ####Notes:
 * Previous College List size: 1982
 * New 'master' list size: 8528  
