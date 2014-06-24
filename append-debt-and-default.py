@@ -53,8 +53,10 @@ with open('master-with-sat.csv', 'rU') as csvfile:
     if row[4] and (row[4] != '') and (row[4].isdigit()) and (int(row[4]) in default_opeid):
       new_row = new_row + [default_opeid_dict[int(row[4])][11], default_opeid_dict[int(row[4])][12]]
       if (default_opeid_dict[int(row[4])][11] == '0.00' and default_opeid_dict[int(row[4])][12] == '0.00'):
-        a = 1
+        new_row = new_row + ['']
       else:
         new_row = new_row + [default_opeid_dict[int(row[4])][13]]
+    else:
+      new_row = new_row + ['']*3
 
     writer.writerow(new_row)
