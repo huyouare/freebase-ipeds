@@ -122,9 +122,8 @@ DRATE | Default rate (NBD/DBR) from PayScale
 ####Notes:
 * Previous College List size: 1982
 * Colleges with Median SAT: 1342
-* Colleges with Graduation Rate: 1566  
-
-* New 'master' list size: 8528  
+* Colleges with Graduation Rate: 1566
+* New 'master' list size: 8528
 * 4-Year (undergraduate) colleges in new list: 2870
 * SAT/ACT Quartile data in new list: 1434
 * Number with graduation rates: 6370
