@@ -117,7 +117,7 @@ ACT Composite 25th	| 25th Percentile ACT Composite Score (IPEDS 2012)
 ACT Composite 75th	| 75th Percentile ACT Composite Score (IPEDS 2012)
 Graduation Rate	| Graduation Rate (Total cohort) from IPEDS
 Retention Rate	| Retention Rate from IPEDS
-Avg Debt of Graduates	|
+Avg Debt of Graduates	| Average Debt of Graduates, in Dollars, from FAFSA
 NBD 1	| Number of student defaults (3-Year) from PayScale
 NBR 1	| Number of students entered repayment (3-Year) from PayScale
 DRATE | Default rate (NBD/DBR) from PayScale
