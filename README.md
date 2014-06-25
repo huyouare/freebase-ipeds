@@ -75,8 +75,11 @@ Use 'fuzzy matching' package to find where names do not match
 `name-conflicts.py`   
 
 ##### Current process steps
+Format the sorted list to give the columns desired  
 `python master-script.py`  
+Add the additional SAT quartile & percent submitting data  
 `python master-with-sat.py`  
+Add the additional debt and default rates data  
 `python append-debt-and-default.py`   
 
 ##### Previous Colleges Schema
@@ -129,4 +132,7 @@ DRATE | Default rate (NBD/DBR) from PayScale
 * Number with graduation rates: 6370
 * Number with average debt: 1070
 * Number with default rates: 5510
+* Number of schools added: 6764
+* Number of previous schools that have new SAT/ACT data: 251
+* Number of new schools added that have SAT/ACT data: 117
 Majors: http://nces.ed.gov/ipeds/cipcode/resources.aspx?y=55
