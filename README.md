@@ -136,3 +136,9 @@ DRATE | Default rate (NBD/DBR) from DoE OSFAP 2010
 * Number of previous schools that have new SAT/ACT data: 251
 * Number of new schools added that have SAT/ACT data: 117
 Majors: http://nces.ed.gov/ipeds/cipcode/resources.aspx?y=55
+
+###The MIGRATION:
+1) Create backup table, copy current College table to backup
+2) Create new columns in College table
+3) Update current Colleges with new data, add new colleges
+4) Update University names by associated college name
