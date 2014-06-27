@@ -3,6 +3,7 @@ from fuzzywuzzy import fuzz
 
 # List B
 b_ipeds = set()
+b_ipeds_used = set()
 b_dict = dict()
 
 # master
@@ -26,6 +27,7 @@ with open('output-final.csv', 'rU') as csvfile:
     new_row = [ row[0], row[2], row[1], row[4], row[6], row[7], row[8] ]
     if (row[2] != '') and (int(row[2]) in b_ipeds):
       new_row = new_row + b_dict[int(row[2])]
+      b_ipeds_used.add(int(row[2]))
     else:
       new_row = new_row + empty_row
 
@@ -49,10 +51,31 @@ with open('output-final.csv', 'rU') as csvfile:
         else:
           new_row = new_row + ['NO']
           print 'NO'
-
+      elif b_row[9]=='' and row[6]=='':
+        new_row = new_row + ['NO DATA']
       else:
         new_row = new_row + ['']
 
-      if b_row[17].isdigit() and b_row[18].isdigit() and row[7].isdigit() and row[8].isdigit():
-        new_row = new_row + [ str( abs(int(row[7]) - int(b_row[17])) ), str( abs(int(row[8]) - int(b_row[18])) ) ]
+      if b_row[17].isdigit() and row[7].isdigit():
+        new_row = new_row + [ str( abs(int(row[7]) - int(b_row[17])) ) ]
+      elif b_row[17]=='' and row[7]=='':
+        new_row = new_row + ['NO DATA']
+      else:
+        new_row = new_row + ['']
+      if b_row[18].isdigit() and row[8].isdigit():
+        new_row = new_row + [ str( abs(int(row[8]) - int(b_row[18])) )]
+      elif b_row[17].isdigit() and row[7].isdigit():
+        new_row = new_row + ['NO DATA']
+      else:
+        new_row = new_row + [''];
+
     writer.writerow(new_row)
+
+  outfile = open('new-colleges.csv', 'w')
+  writer = csv.writer(outfile)
+
+  ipeds_left = b_ipeds - b_ipeds_used
+  for i in ipeds_left:
+    # row = [''] * 8 + b_dict[i]
+    row = b_dict[i]
+    writer.writerow(row)
