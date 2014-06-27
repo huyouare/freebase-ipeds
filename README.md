@@ -75,8 +75,11 @@ Use 'fuzzy matching' package to find where names do not match
 `name-conflicts.py`   
 
 ##### Current process steps
+Format the sorted list to give the columns desired  
 `python master-script.py`  
+Add the additional SAT quartile & percent submitting data  
 `python master-with-sat.py`  
+Add the additional debt and default rates data  
 `python append-debt-and-default.py`   
 
 ##### Previous Colleges Schema
@@ -114,13 +117,22 @@ ACT Composite 25th	| 25th Percentile ACT Composite Score (IPEDS 2012)
 ACT Composite 75th	| 75th Percentile ACT Composite Score (IPEDS 2012)
 Graduation Rate	| Graduation Rate (Total cohort) from IPEDS
 Retention Rate	| Retention Rate from IPEDS
-Avg Debt of Graduates	|
-NBD 1	| Number of student defaults (3-Year) from PayScale
-NBR 1	| Number of students entered repayment (3-Year) from PayScale
-DRATE | Default rate (NBD/DBR) from PayScale
+Avg Debt of Graduates	| Average Debt of Graduates, in Dollars, from CollegeInSight 2011-2012 http://college-insight.org/#explore/go&h=44b136f4d155362e46d5da65ab244409  
+NBD 1	| Number of student defaults (3-Year) from DoE OSFAP 2010 http://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html
+NBR 1	| Number of students entered repayment (3-Year) from DoE OSFAP 2010
+DRATE | Default rate (NBD/DBR) from DoE OSFAP 2010
 
 ####Notes:
 * Previous College List size: 1982
-* New 'master' list size: 8528  
-* 4-Year (undergraduate) colleges in new list: 2869  
+* Colleges with Median SAT: 1342
+* Colleges with Graduation Rate: 1566
+* New 'master' list size: 8528
+* 4-Year (undergraduate) colleges in new list: 2870
+* SAT/ACT Quartile data in new list: 1434
+* Number with graduation rates: 6370
+* Number with average debt: 1070
+* Number with default rates: 5510
+* Number of schools added: 6764
+* Number of previous schools that have new SAT/ACT data: 251
+* Number of new schools added that have SAT/ACT data: 117
 Majors: http://nces.ed.gov/ipeds/cipcode/resources.aspx?y=55
