@@ -1,0 +1,20 @@
+SELECT COUNT(*) FROM "colleges" WHERE (median_sat_score IS NOT NULL OR sat_reading_25th_percentile IS NOT NULL OR act_composite_25th_percentile IS NOT NULL)
+ => 2063
+
+ 2.1.2 :002 > College.where("university_id IS NOT NULL").count
+   (3.5ms)  SELECT COUNT(*) FROM "colleges" WHERE (university_id IS NOT NULL)
+ => 1810 
+2.1.2 :003 > College.where("graduation_rate IS NOT NULL").count
+   (16.0ms)  SELECT COUNT(*) FROM "colleges" WHERE (graduation_rate IS NOT NULL)
+ => 6489 
+2.1.2 :004 > College.where("retention_rate IS NOT NULL").count
+   (5.6ms)  SELECT COUNT(*) FROM "colleges" WHERE (retention_rate IS NOT NULL)
+ => 6067 
+2.1.2 :005 > College.where("median_sat_score IS NOT NULL").count
+   (9.9ms)  SELECT COUNT(*) FROM "colleges" WHERE (median_sat_score IS NOT NULL)
+ => 1735 
+
+ SELECT COUNT(*) FROM "colleges" WHERE (average_debt IS NOT NULL)
+ => 1159 
+ SELECT COUNT(*) FROM "colleges" WHERE (default_rate IS NOT NULL)
+ => 5121 
