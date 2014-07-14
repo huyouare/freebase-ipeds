@@ -100,27 +100,36 @@ end
 ```
 
 ##### New Attributes
-Attribute | Description
-------------- | -------------
-DoE ID     | Department of Education Accredidation Data ID
-Freebase mid | Freebase ID '/m/XXXXXX'
-OPE ID    | Department of Education Office of Postsecondary Education ID (found in IPEDS and DoE data)
-Four-Year | "YES" if the institution grants four-year undergraduate degrees, otherwise "NO"
-Test Scores Required | "YES" if the institution requires submission of test scores for admission, otherwise "NO"
-SAT CR 25th | 25th Percentile Score on SAT Critical Reading Section (IPEDS 2012)
-SAT CR 75th	| 75th Percentile Score on SAT Critical Reading Section (IPEDS 2012)
-SAT M 25th	| 25th Percentile Score on SAT Math Section (IPEDS 2012)
-SAT M 75th	| 75th Percentile Score on SAT Math Section (IPEDS 2012)
-SAT W 25th	| 25th Percentile Score on SAT Writing Section (IPEDS 2012)
-SAT W 75th	| 75th Percentile Score on SAT Writing Section (IPEDS 2012)
-ACT Composite 25th	| 25th Percentile ACT Composite Score (IPEDS 2012)
-ACT Composite 75th	| 75th Percentile ACT Composite Score (IPEDS 2012)
-Graduation Rate	| Graduation Rate (Total cohort) from IPEDS
-Retention Rate	| Retention Rate from IPEDS
-Avg Debt of Graduates	| Average Debt of Graduates, in Dollars, from CollegeInSight 2011-2012 http://college-insight.org/#explore/go&h=44b136f4d155362e46d5da65ab244409  
-NBD 1	| Number of student defaults (3-Year) from DoE OSFAP 2010 http://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html
-NBR 1	| Number of students entered repayment (3-Year) from DoE OSFAP 2010
-DRATE | Default rate (NBD/DBR) from DoE OSFAP 2010
+Name | Attribute | Description
+------------- | ------------- | -------------
+ipeds_id | IPEDS ID | Renamed from gov_id; the ID provides by IPEDS
+doe_id | DoE ID     | Department of Education Accredidation Data ID
+freebase_id | Freebase mid | Freebase ID '/m/XXXXXX'
+ope_id | OPE ID    | Department of Education Office of Postsecondary Education ID (found in IPEDS and DoE data)
+is_four_year | Four-Year | "YES" if the institution grants four-year undergraduate degrees, otherwise "NO"
+test_scores_required | Test Scores Required | "YES" if the institution requires submission of test scores for admission, otherwise "NO"
+sat_reading_25th_percentile | SAT CR 25th | 25th Percentile Score on SAT Critical Reading Section (IPEDS 2012)
+sat_reading_75th_percentile | SAT CR 75th	| 75th Percentile Score on SAT Critical Reading Section (IPEDS 2012)
+sat_math_25th_percentile | SAT M 25th	| 25th Percentile Score on SAT Math Section (IPEDS 2012)
+sat_math_75th_percentile | SAT M 75th	| 75th Percentile Score on SAT Math Section (IPEDS 2012)
+sat_writing_25th_percentile | SAT W 25th	| 25th Percentile Score on SAT Writing Section (IPEDS 2012)
+sat_writing_75th_percentile | SAT W 75th	| 75th Percentile Score on SAT Writing Section (IPEDS 2012)
+act_composite_25th_percentile | ACT Composite 25th	| 25th Percentile ACT Composite Score (IPEDS 2012)
+act_composite_75th_percentile | ACT Composite 75th	| 75th Percentile ACT Composite Score (IPEDS 2012)
+graduation_rate | Graduation Rate	| Graduation Rate (Total cohort) from IPEDS
+retention_rate | Retention Rate	| Retention Rate from IPEDS
+average_debt | Avg Debt of Graduates	| Average Debt of Graduates, in Dollars, from CollegeInSight 2011-2012 http://college-insight.org/#explore/go&h=44b136f4d155362e46d5da65ab244409  
+num_defaults | NBD 1 | Number of student defaults (3-Year) from DoE OSFAP 2010 http://www2.ed.gov/offices/OSFAP/defaultmanagement/cdr.html
+num_repayments | NBR 1 | Number of students entered repayment (3-Year) from DoE OSFAP 2010
+default_rate | DRATE | Default rate (NBD/DBR) from DoE OSFAP 2010
+us_news_rank | US News Ranking | Ranking as provided by US News "Best Colleges" http://premium.usnews.com/best-colleges/search?spp=10000&category=all  
+us_news_category | US News Category | The category in which the college was ranked (e.g. "National Universities").
+acceptance_rate | Acceptance Rate | Acceptance rate of colleges as given by US News 
+high_school_gpa | High School GPA | GPA of entering freshmen from US News
+sat_reading_average | SAT CR Average | Average SAT Reading score from US News, 2012
+sat_math_average | SAT M Average | Average SAT Math score from US News, 2012
+sat_writing_average | SAT W Average | Average SAT Writing score from US News, 2012
+act_composite_average | ACT Composite Average | Average ACT Composite score from US News, 2012
 
 ####Notes:
 * Previous College List size: 1982
@@ -135,7 +144,10 @@ DRATE | Default rate (NBD/DBR) from DoE OSFAP 2010
 * Number of schools added: 6764
 * Number of previous schools that have new SAT/ACT data: 251
 * Number of new schools added that have SAT/ACT data: 117
-Majors: http://nces.ed.gov/ipeds/cipcode/resources.aspx?y=55
+
+##### After US News Rescrape:
+* Number of schools with SAT/ACT data: 2190 (858 new)
+* 
 
 ###The MIGRATION:
 1) Create backup table, copy current College table to backup  
