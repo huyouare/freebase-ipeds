@@ -82,6 +82,11 @@ Add the additional SAT quartile & percent submitting data
 Add the additional debt and default rates data  
 `python append-debt-and-default.py`   
 
+##### US News Rescrape
+Found in lib/tasks/us_news_rescrape.rake.  
+Used US News Premium to gather more SAT/ACT information, rankings, acceptance rates, and HS GPAs.  
+A csv was scraped  from http://premium.usnews.com/best-colleges/search?spp=10000&category=all. Then, a rake task found in lib/tasks/colleges.rake called "us_news_rescrape:scrape" is run to gather SAT/ACT fields for each college. This is imported in the "colleges:populate" rake task.
+
 ##### Previous Colleges Schema
 ```ruby
 create_table "colleges", :force => true do |t|
@@ -149,8 +154,8 @@ act_composite_average | ACT Composite Average | Average ACT Composite score from
 * Number of schools with SAT/ACT data: 2190 (858 new)
 * 
 
-###The MIGRATION:
+###Migration/Rake:
 1) Create backup table, copy current College table to backup  
 2) Create new columns in College table  
-3) Update current Colleges with new data, add new colleges  
-4) Update University names by associated college name  
+3) Create new columns for US News
+4) Run `rake colleges:populate` to populate rows
