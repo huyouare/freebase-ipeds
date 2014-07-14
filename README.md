@@ -152,10 +152,11 @@ act_composite_average | ACT Composite Average | Average ACT Composite score from
 
 ##### After US News Rescrape:
 * Number of schools with SAT/ACT data: 2190 (858 new)
-* 
+* Number of schools with graduation rate: 6503 (437 new)
+* Number of schools with default rate: 5121 (5121 new)
 
 ###Migration/Rake:
 1) Create backup table, copy current College table to backup  
 2) Create new columns in College table  
-3) Create new columns for US News
+3) Create new columns for US News  
 4) Run `rake colleges:populate` to populate rows
