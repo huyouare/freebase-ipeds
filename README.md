@@ -43,11 +43,37 @@ Considering the three most complete sources - IPEDS, Freebase, and DoE Accredida
 
 ##### IPEDS
 ###### Download from Data Center:   
-Select "Download Custom Data Files"   
-Click "Select" to get all institutions   
-(May not work. Instead, choose one variable that all schools have, and select the full range - e.g. 
-Use drop-downs and search to select variables   
-Download as CSV   
+* Go to [IPEDS Data Center](https://nces.ed.gov/ipeds/use-the-data).
+* Under "Survey Data" section, choose "Select download option" → "Custom Data Files".
+* Here it offers to search for individual institutions by their names. Since all institutions are required, we're gonna perform a hacky workaround. They also claim that "if you want all institutions on the list, click Select", except it doesn't work.
+  * On the "1. Select Institutions" tab, hover "By Variables" link and choose "Browse/Search Variables".
+  * Choose "Institutional Characteristics" → "Directory information" → "1980-81 to current year".
+  * Select the latest (topmost leftmost) year range. Example: `2020-21`.
+  * Scroll down the list of checkboxes and check the "Institution is active in current year" checkbox near the bottom of the list.
+  * Click "Continue" button on the right side of the blue sticky top bar.
+* The page will display a list of "My Variables".
+* Click "Continue" button on the right side above "My Variables".
+* Now it asks to specify a value for each of the "My Variables".
+  * Click the "Institution is active in current year  - (20)" link in the list of variables. A popup will open. Choose "Yes" option. Click the small "save" button on the right side above the "Yes" option.
+  * Click "Submit" button on the left side right above the list of variables.
+* The page will output a list of institutions. That should be all of the "currently active" institutions.
+* Click a small and stealthy "continue" button right above the list of institutions.
+* Now it offers to select the variables of the institutions that will be present in the exported data. 
+  * For example, assume that the data required to be present in the output is: IPEDS ID, name, city and state code.
+* Choose "Institutional Characteristics" → "Directory information, institution classifications, and response status information" → "Directory information and response status". Select checkboxes:
+  * ~"Institution (entity) name"~ (no need to select it here because it's already present by default)
+  * "City location of institution" — Institution city.
+  * ~"State abbreviation"~ (that's state name rather than state code)
+  * "State and 116TH Congressional District ID" — Institution state code and some kind of a "district".
+* Click "Continue" button on the right side of the blue header.
+* Click "CSV" link on the right side.
+* A `.zip` archive will be downloaded. Extract its contents. The CSV file name will look like `CSV_6262022-283.csv`.
+* Open the `.csv` file. It will list columns:
+  * `unitid` — IPEDS ID. Example: `494250`.
+  * `institution name` — Institution name. Example: `Elevate Salon Institute`.
+  * `year` — (ignore). Example: `2020`.
+  * `HD2020.City location of institution` — Institution city (US). Example: `Cleveland`.
+  * `HD2020.State and 116TH Congressional District ID` — Institution state code and some kind of a "district" (US). Example: `CA, District 27`.
 
 At the time, the latest set available for download was 2012 data. However, the College Navigator uses the most updated data, from 2013-2014. In order to collect a small set of data from colleges that were found in Freebase/DoE lists but not in IPEDS 2012, the College Navigator site was scraped for information in HTML.
 
